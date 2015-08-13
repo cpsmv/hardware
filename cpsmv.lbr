@@ -1459,7 +1459,7 @@ grid 5 mm, outline 2.5 x 7.5 mm</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="R-THRU" prefix="R" uservalue="yes">
+<deviceset name="RES-JKE" prefix="R" uservalue="yes">
 <description>Axial-lead, through hole, general-purpose resistors</description>
 <gates>
 <gate name="G$1" symbol="R-US" x="0" y="2.54"/>
@@ -1471,12 +1471,18 @@ grid 5 mm, outline 2.5 x 7.5 mm</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" constant="no"/>
+<attribute name="MANUFACTURER_PN" value="n/a" constant="no"/>
+<attribute name="PACKAGE" value="0207/7" constant="no"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" constant="no"/>
+<attribute name="SUPPLIER_PN" value="n/a" constant="no"/>
+</technology>
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="CAP_JOE-KNOWS" prefix="C" uservalue="yes">
+<deviceset name="CAP-JKE" prefix="C" uservalue="yes">
 <description>Axial lead, through-hole, general purpose capacitor</description>
 <gates>
 <gate name="G$1" symbol="C-US" x="0" y="0"/>
@@ -1491,7 +1497,7 @@ grid 5 mm, outline 2.5 x 7.5 mm</description>
 <technology name="">
 <attribute name="MFG" value="joe Knows Electronics"/>
 <attribute name="MFG_PN" value="n/a" constant="no"/>
-<attribute name="PACKAGE" value="2mm Axial"/>
+<attribute name="PACKAGE" value="C050-025X075"/>
 <attribute name="SUPPLIER" value="Joe knows Electronics" constant="no"/>
 <attribute name="SUPPLIER_PN" value="n/a" constant="no"/>
 </technology>
@@ -1571,7 +1577,12 @@ grid 5 mm, outline 2.5 x 7.5 mm</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="MFG" value="" constant="no"/>
+<attribute name="MFG_PN" value="" constant="no"/>
+<attribute name="SUPPLIER" value="" constant="no"/>
+<attribute name="SUPPLIER_PN" value="" constant="no"/>
+</technology>
 </technologies>
 </device>
 </devices>
@@ -1770,45 +1781,6 @@ grid 5 mm, outline 2.5 x 7.5 mm</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MCP2510-I/SO">
-<description>CAN Controller</description>
-<gates>
-<gate name="A" symbol="MCP2510-I/SO" x="0" y="0"/>
-</gates>
-<devices>
-<device name="" package="SOIC127P1034X264-18N">
-<connects>
-<connect gate="A" pin="CLKOUT" pad="3"/>
-<connect gate="A" pin="OSC1" pad="8"/>
-<connect gate="A" pin="OSC2" pad="7"/>
-<connect gate="A" pin="RXCAN" pad="2"/>
-<connect gate="A" pin="SCK" pad="13"/>
-<connect gate="A" pin="SI" pad="14"/>
-<connect gate="A" pin="SO" pad="15"/>
-<connect gate="A" pin="TXCAN" pad="1"/>
-<connect gate="A" pin="VDD" pad="18"/>
-<connect gate="A" pin="VSS" pad="9"/>
-<connect gate="A" pin="~CS" pad="16"/>
-<connect gate="A" pin="~INT" pad="12"/>
-<connect gate="A" pin="~RESET" pad="17"/>
-<connect gate="A" pin="~RX0BF" pad="11"/>
-<connect gate="A" pin="~RX1BF" pad="10"/>
-<connect gate="A" pin="~TX0RTS" pad="4"/>
-<connect gate="A" pin="~TX1RTS" pad="5"/>
-<connect gate="A" pin="~TX2RTS" pad="6"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="MPN" value="MCP2510-I/SO" constant="no"/>
-<attribute name="OC_FARNELL" value="9758542" constant="no"/>
-<attribute name="OC_NEWARK" value="61K2944" constant="no"/>
-<attribute name="PACKAGE" value="SOIC-18" constant="no"/>
-<attribute name="SUPPLIER" value="Microchip" constant="no"/>
-</technology>
-</technologies>
-</device>
-</devices>
-</deviceset>
 <deviceset name="MCP2551-E/SN">
 <description>High-Speed CAN Transceiver</description>
 <gates>
@@ -1828,12 +1800,11 @@ grid 5 mm, outline 2.5 x 7.5 mm</description>
 </connects>
 <technologies>
 <technology name="">
-<attribute name="DESCRIPTION" value="High-Speed CAN Transceiver" constant="no"/>
-<attribute name="MPN" value="MCP2551-E/SN" constant="no"/>
-<attribute name="OC_FARNELL" value="1467746" constant="no"/>
-<attribute name="OC_NEWARK" value="92C4186" constant="no"/>
+<attribute name="MANUFACTURER" value="Microchip" constant="no"/>
+<attribute name="MANUFACTURER_PN" value="MCP2515-E/SN" constant="no"/>
 <attribute name="PACKAGE" value="SOIC-8" constant="no"/>
-<attribute name="SUPPLIER" value="Microchip" constant="no"/>
+<attribute name="SUPPLIER" value="Digi-Key" constant="no"/>
+<attribute name="SUPPLIER_PN" value="?" constant="no"/>
 </technology>
 </technologies>
 </device>
