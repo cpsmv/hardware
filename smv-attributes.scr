@@ -9,3 +9,4 @@ attribute MANUFACTURER_PN
 attribute SUPPLIER 
 attribute SUPPLIER_PN 
 attribute PACKAGE
+attribute DATASHEET_LINK
