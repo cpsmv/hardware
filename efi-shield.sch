@@ -6486,13 +6486,15 @@ grid 5 mm, outline 2.5 x 7.5 mm</description>
 <part name="SUPPLY19" library="supply2" deviceset="AGND" device=""/>
 <part name="SUPPLY20" library="supply2" deviceset="AGND" device=""/>
 <part name="SUPPLY21" library="supply2" deviceset="AGND" device=""/>
-<part name="SUPPLY22" library="supply2" deviceset="GND" device=""/>
 <part name="U$1" library="cpsmv" deviceset="CPSMV-FRAME" device=""/>
 <part name="U$2" library="cpsmv" deviceset="CPSMV-FRAME" device=""/>
 <part name="U$3" library="cpsmv" deviceset="CPSMV-FRAME" device=""/>
 <part name="U$4" library="cpsmv" deviceset="CPSMV-FRAME" device=""/>
 <part name="U$5" library="cpsmv" deviceset="CPSMV-FRAME" device=""/>
 <part name="U$6" library="cpsmv" deviceset="CPSMV-FRAME" device=""/>
+<part name="C24" library="cpsmv" deviceset="CAP-JKE" device="" value="0.1uF"/>
+<part name="SUPPLY22" library="supply2" deviceset="AGND" device=""/>
+<part name="P+10" library="supply1" deviceset="+5V" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -6548,11 +6550,11 @@ DAC0
 DAC1
 CANRX
 CANTX</text>
-<text x="139.7" y="190.5" size="3.81" layer="97">ARDUINO DUE</text>
-<text x="58.42" y="190.5" size="3.81" layer="97">AMPSEAL </text>
+<text x="139.7" y="193.04" size="5.08" layer="97">ARDUINO DUE</text>
+<text x="43.18" y="193.04" size="5.08" layer="97">AMPSEAL </text>
 <text x="223.52" y="157.48" size="1.27" layer="97" align="center-left">RESET</text>
-<text x="284.48" y="190.5" size="3.81" layer="97">SPI</text>
-<text x="55.88" y="101.6" size="3.81" layer="97">SPARE INPUTS</text>
+<text x="284.48" y="193.04" size="5.08" layer="97">SPI</text>
+<text x="45.72" y="101.6" size="5.08" layer="97">SPARE INPUTS</text>
 <text x="336.55" y="15.24" size="2.54" layer="94" font="vector">Alex Pink</text>
 <text x="361.95" y="5.08" size="2.54" layer="94" font="vector">01</text>
 <text x="334.01" y="20.32" size="2.54" layer="94" font="vector">Connectors &amp; SPI</text>
@@ -7007,11 +7009,21 @@ CANTX</text>
 <wire x1="43.18" y1="129.54" x2="45.72" y2="129.54" width="0.1524" layer="91"/>
 <label x="43.18" y="129.54" size="1.27" layer="95" font="vector" rot="R180"/>
 </segment>
+<segment>
+<pinref part="JP1" gate="G$1" pin="1"/>
+<wire x1="71.12" y1="91.44" x2="55.88" y2="91.44" width="0.1524" layer="91"/>
+<label x="55.88" y="91.44" size="1.27" layer="95"/>
+</segment>
 </net>
 <net name="SPR_IN2" class="0">
 <segment>
 <wire x1="43.18" y1="127" x2="45.72" y2="127" width="0.1524" layer="91"/>
 <label x="43.18" y="127" size="1.27" layer="95" font="vector" rot="R180"/>
+</segment>
+<segment>
+<pinref part="JP2" gate="G$1" pin="1"/>
+<wire x1="71.12" y1="81.28" x2="55.88" y2="81.28" width="0.1524" layer="91"/>
+<label x="55.88" y="81.28" size="1.27" layer="95"/>
 </segment>
 </net>
 <net name="SPR_IN3" class="0">
@@ -7019,23 +7031,10 @@ CANTX</text>
 <wire x1="43.18" y1="124.46" x2="45.72" y2="124.46" width="0.1524" layer="91"/>
 <label x="43.18" y="124.46" size="1.27" layer="95" font="vector" rot="R180"/>
 </segment>
-</net>
-<net name="N$23" class="0">
-<segment>
-<pinref part="JP1" gate="G$1" pin="1"/>
-<wire x1="71.12" y1="91.44" x2="63.5" y2="91.44" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$24" class="0">
-<segment>
-<pinref part="JP2" gate="G$1" pin="1"/>
-<wire x1="71.12" y1="81.28" x2="63.5" y2="81.28" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$25" class="0">
 <segment>
 <pinref part="JP3" gate="G$1" pin="1"/>
-<wire x1="71.12" y1="71.12" x2="63.5" y2="71.12" width="0.1524" layer="91"/>
+<wire x1="71.12" y1="71.12" x2="55.88" y2="71.12" width="0.1524" layer="91"/>
+<label x="55.88" y="71.12" size="1.27" layer="95"/>
 </segment>
 </net>
 </nets>
@@ -7043,8 +7042,8 @@ CANTX</text>
 <sheet>
 <description>ACTUATORS</description>
 <plain>
-<text x="264.16" y="153.67" size="3.81" layer="97">SPARK</text>
-<text x="147.32" y="153.67" size="3.81" layer="97">FUEL</text>
+<text x="264.16" y="151.13" size="5.08" layer="97">SPARK</text>
+<text x="147.32" y="151.13" size="5.08" layer="97">FUEL</text>
 <text x="336.55" y="15.24" size="2.54" layer="94" font="vector">Alex Pink</text>
 <text x="361.95" y="5.08" size="2.54" layer="94" font="vector">01</text>
 <text x="334.01" y="20.32" size="2.54" layer="94" font="vector">Actutators</text>
@@ -7147,11 +7146,20 @@ MCP602x devices.</text>
 <wire x1="168.91" y1="125.73" x2="168.91" y2="135.89" width="0.1524" layer="97"/>
 <wire x1="194.31" y1="135.89" x2="194.31" y2="127" width="0.1524" layer="97"/>
 <wire x1="194.31" y1="127" x2="193.04" y2="125.73" width="0.1524" layer="97"/>
-<text x="132.08" y="198.12" size="3.81" layer="97">LOW PASS FILTERS</text>
-<text x="292.1" y="160.02" size="3.81" layer="97">ADC</text>
+<text x="124.46" y="203.2" size="5.08" layer="97">LOW PASS FILTERS</text>
+<text x="289.56" y="175.26" size="5.08" layer="97">ADC</text>
 <text x="336.55" y="15.24" size="2.54" layer="94" font="vector">Alex Pink</text>
 <text x="361.95" y="5.08" size="2.54" layer="94" font="vector">01</text>
 <text x="334.01" y="20.32" size="2.54" layer="94" font="vector">Filters &amp; ADC</text>
+<text x="279.4" y="167.64" size="1.27" layer="97" align="top-left">LAYOUT NOTE:
+Place decoupling cap
+as close as possible 
+Vdd pin.</text>
+<wire x1="278.13" y1="168.91" x2="303.53" y2="168.91" width="0.1524" layer="97"/>
+<wire x1="302.26" y1="158.75" x2="278.13" y2="158.75" width="0.1524" layer="97"/>
+<wire x1="278.13" y1="158.75" x2="278.13" y2="168.91" width="0.1524" layer="97"/>
+<wire x1="303.53" y1="168.91" x2="303.53" y2="160.02" width="0.1524" layer="97"/>
+<wire x1="303.53" y1="160.02" x2="302.26" y2="158.75" width="0.1524" layer="97"/>
 </plain>
 <instances>
 <instance part="U3" gate="A" x="297.18" y="132.08" smashed="yes">
@@ -7337,8 +7345,10 @@ MCP602x devices.</text>
 <instance part="SUPPLY19" gate="G$1" x="187.96" y="162.56"/>
 <instance part="SUPPLY20" gate="G$1" x="274.32" y="109.22"/>
 <instance part="SUPPLY21" gate="G$1" x="198.12" y="121.92"/>
-<instance part="SUPPLY22" gate="GND" x="269.24" y="109.22"/>
 <instance part="U$2" gate="G$1" x="0" y="0"/>
+<instance part="C24" gate="G$1" x="266.7" y="154.94"/>
+<instance part="SUPPLY22" gate="G$1" x="266.7" y="147.32"/>
+<instance part="P+10" gate="1" x="266.7" y="162.56"/>
 </instances>
 <busses>
 </busses>
@@ -7368,6 +7378,20 @@ MCP602x devices.</text>
 <pinref part="P+9" gate="1" pin="+5V"/>
 <pinref part="C23" gate="G$1" pin="1"/>
 <wire x1="198.12" y1="137.16" x2="198.12" y2="134.62" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U3" gate="A" pin="VREF"/>
+<wire x1="276.86" y1="144.78" x2="274.32" y2="144.78" width="0.1524" layer="91"/>
+<wire x1="274.32" y1="144.78" x2="274.32" y2="147.32" width="0.1524" layer="91"/>
+<pinref part="U3" gate="A" pin="VDD"/>
+<wire x1="274.32" y1="147.32" x2="276.86" y2="147.32" width="0.1524" layer="91"/>
+<wire x1="274.32" y1="147.32" x2="274.32" y2="160.02" width="0.1524" layer="91"/>
+<junction x="274.32" y="147.32"/>
+<wire x1="274.32" y1="160.02" x2="266.7" y2="160.02" width="0.1524" layer="91"/>
+<pinref part="C24" gate="G$1" pin="1"/>
+<wire x1="266.7" y1="160.02" x2="266.7" y2="157.48" width="0.1524" layer="91"/>
+<pinref part="P+10" gate="1" pin="+5V"/>
+<junction x="266.7" y="160.02"/>
 </segment>
 </net>
 <net name="MAP_FIL" class="0">
@@ -7746,6 +7770,14 @@ MCP602x devices.</text>
 <wire x1="276.86" y1="114.3" x2="274.32" y2="114.3" width="0.1524" layer="91"/>
 <pinref part="SUPPLY20" gate="G$1" pin="AGND"/>
 <wire x1="274.32" y1="114.3" x2="274.32" y2="111.76" width="0.1524" layer="91"/>
+<pinref part="U3" gate="A" pin="DGND"/>
+<wire x1="276.86" y1="116.84" x2="274.32" y2="116.84" width="0.1524" layer="91"/>
+<wire x1="274.32" y1="116.84" x2="274.32" y2="114.3" width="0.1524" layer="91"/>
+<junction x="274.32" y="114.3"/>
+</segment>
+<segment>
+<pinref part="C24" gate="G$1" pin="2"/>
+<pinref part="SUPPLY22" gate="G$1" pin="AGND"/>
 </segment>
 </net>
 <net name="SPR_A1_FIL" class="0">
@@ -7830,14 +7862,6 @@ MCP602x devices.</text>
 <pinref part="JP6" gate="G$1" pin="1"/>
 <wire x1="215.9" y1="93.98" x2="236.22" y2="93.98" width="0.1524" layer="91"/>
 <label x="223.52" y="93.98" size="1.27" layer="95"/>
-</segment>
-</net>
-<net name="GND" class="0">
-<segment>
-<pinref part="U3" gate="A" pin="DGND"/>
-<wire x1="276.86" y1="116.84" x2="269.24" y2="116.84" width="0.1524" layer="91"/>
-<wire x1="269.24" y1="116.84" x2="269.24" y2="111.76" width="0.1524" layer="91"/>
-<pinref part="SUPPLY22" gate="GND" pin="GND"/>
 </segment>
 </net>
 <net name="MOSI_5V" class="0">
