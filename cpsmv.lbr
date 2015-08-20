@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.025" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
@@ -29,7 +29,7 @@
 <layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="yes"/>
 <layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="yes"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="yes"/>
 <layer number="25" name="tNames" color="7" fill="1" visible="yes" active="yes"/>
@@ -3660,6 +3660,34 @@ grid 5 mm, outline 2.5 x 7.5 mm</description>
 <wire x1="3.2" y1="-9.5" x2="-3.2" y2="-9.5" width="0.127" layer="39"/>
 <wire x1="-3.2" y1="-9.5" x2="-3.2" y2="3.5" width="0.127" layer="39"/>
 </package>
+<package name="85505-5002">
+<pad name="1" x="-4.445" y="-1.27" drill="1" diameter="1.778" rot="R90"/>
+<pad name="2" x="-3.175" y="1.27" drill="1" diameter="1.778" rot="R90"/>
+<pad name="3" x="-1.905" y="-1.27" drill="1" diameter="1.778" rot="R90"/>
+<pad name="4" x="-0.635" y="1.27" drill="1" diameter="1.778" rot="R90"/>
+<pad name="5" x="0.635" y="-1.27" drill="1" diameter="1.778" rot="R90"/>
+<pad name="6" x="1.905" y="1.27" drill="1" diameter="1.778" rot="R90"/>
+<pad name="7" x="3.175" y="-1.27" drill="1" diameter="1.778" rot="R90"/>
+<pad name="8" x="4.445" y="1.27" drill="1" diameter="1.778" rot="R90"/>
+<pad name="9" x="7.805" y="-10.67" drill="1.6" diameter="2.54" rot="R90"/>
+<hole x="5.715" y="-7.62" drill="3.3"/>
+<hole x="-5.715" y="-7.62" drill="3.3"/>
+<pad name="10" x="-7.805" y="-10.67" drill="1.6" diameter="2.54" rot="R90"/>
+<wire x1="-7.7978" y1="-8.89" x2="-7.7978" y2="3.048" width="0.127" layer="21"/>
+<wire x1="-7.7978" y1="3.048" x2="7.7978" y2="3.048" width="0.127" layer="21"/>
+<wire x1="7.7978" y1="3.048" x2="7.7978" y2="-8.89" width="0.127" layer="21"/>
+<wire x1="-7.7978" y1="-12.446" x2="7.7978" y2="-12.446" width="0.127" layer="21"/>
+<wire x1="-9.398" y1="-12.446" x2="-9.398" y2="-9.906" width="0.127" layer="39"/>
+<wire x1="-9.398" y1="-9.906" x2="-8.128" y2="-8.636" width="0.127" layer="39"/>
+<wire x1="-8.128" y1="-8.636" x2="-8.128" y2="3.302" width="0.127" layer="39"/>
+<wire x1="-8.128" y1="3.302" x2="8.128" y2="3.302" width="0.127" layer="39"/>
+<wire x1="8.128" y1="3.302" x2="8.128" y2="-8.636" width="0.127" layer="39"/>
+<wire x1="8.128" y1="-8.636" x2="9.398" y2="-9.906" width="0.127" layer="39"/>
+<wire x1="9.398" y1="-9.906" x2="9.398" y2="-12.446" width="0.127" layer="39"/>
+<wire x1="9.398" y1="-12.446" x2="-9.398" y2="-12.446" width="0.127" layer="39"/>
+<text x="-8.128" y="4.064" size="1.016" layer="25" font="vector" ratio="15" align="center-left">&gt;NAME</text>
+<text x="-5.334" y="0" size="1.016" layer="22" font="vector" ratio="15" rot="SR180" align="center-left">1</text>
+</package>
 </packages>
 <symbols>
 <symbol name="R-US">
@@ -6649,6 +6677,32 @@ grid 5 mm, outline 2.5 x 7.5 mm</description>
 <text x="2.54" y="0" size="1.27" layer="95">&gt;NAME</text>
 <text x="2.54" y="-2.54" size="1.27" layer="96">&gt;VALUE</text>
 </symbol>
+<symbol name="RJ45">
+<pin name="1" x="2.54" y="10.16" visible="pin" length="short" direction="pwr" rot="R180"/>
+<pin name="2" x="5.08" y="7.62" visible="pin" length="middle" direction="pas" rot="R180"/>
+<pin name="9" x="0" y="-10.16" visible="pin" length="point" direction="pas" rot="R180"/>
+<pin name="3" x="2.54" y="5.08" visible="pin" length="short" direction="pas" rot="R180"/>
+<pin name="4" x="5.08" y="2.54" visible="pin" length="middle" direction="pas" rot="R180"/>
+<pin name="5" x="2.54" y="0" visible="pin" length="short" direction="pas" rot="R180"/>
+<pin name="6" x="5.08" y="-2.54" visible="pin" length="middle" direction="pas" rot="R180"/>
+<pin name="7" x="2.54" y="-5.08" visible="pin" length="short" direction="pas" rot="R180"/>
+<pin name="8" x="5.08" y="-7.62" visible="pin" length="middle" direction="pas" rot="R180"/>
+<text x="-5.08" y="10.16" size="1.778" layer="97" align="center-right">GRN/WH</text>
+<text x="-5.08" y="-7.62" size="1.778" layer="97" align="center-right">BWN</text>
+<text x="-5.08" y="-5.08" size="1.778" layer="97" align="center-right">BWN/WH</text>
+<text x="-5.08" y="-2.54" size="1.778" layer="97" align="center-right">ORG</text>
+<text x="-5.08" y="0" size="1.778" layer="97" align="center-right">BLU/WH</text>
+<text x="-5.08" y="2.54" size="1.778" layer="97" align="center-right">BLU</text>
+<text x="-5.08" y="5.08" size="1.778" layer="97" align="center-right">ORG/WH</text>
+<text x="-5.08" y="7.62" size="1.778" layer="97" align="center-right">GRN</text>
+<text x="-5.08" y="-10.16" size="1.778" layer="97" align="center-right">SHIELD</text>
+<wire x1="-17.78" y1="12.7" x2="0" y2="12.7" width="0.254" layer="94"/>
+<wire x1="0" y1="12.7" x2="0" y2="-12.7" width="0.254" layer="94"/>
+<wire x1="0" y1="-12.7" x2="-17.78" y2="-12.7" width="0.254" layer="94"/>
+<wire x1="-17.78" y1="-12.7" x2="-17.78" y2="12.7" width="0.254" layer="94"/>
+<text x="-17.78" y="15.24" size="1.778" layer="95" align="center-left">&gt;NAME</text>
+<text x="-17.78" y="-15.24" size="1.778" layer="95" align="center-left">&gt;VALUE</text>
+</symbol>
 </symbols>
 <devicesets>
 <deviceset name="PINHD-1X10" prefix="J" uservalue="yes">
@@ -7353,6 +7407,37 @@ grid 5 mm, outline 2.5 x 7.5 mm</description>
 <attribute name="PACKAGE" value="Through-hole LED, R/A" constant="no"/>
 <attribute name="SUPPLIER" value="Digi-Key" constant="no"/>
 <attribute name="SUPPLIER_PN" value="160-1978-ND" constant="no"/>
+</technology>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="MOLEX-85505-5002">
+<description>RJ45 Connector, Through-hole, Shielded, Right-angle</description>
+<gates>
+<gate name="G$1" symbol="RJ45" x="5.08" y="0"/>
+</gates>
+<devices>
+<device name="" package="85505-5002">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+<connect gate="G$1" pin="3" pad="3"/>
+<connect gate="G$1" pin="4" pad="4"/>
+<connect gate="G$1" pin="5" pad="5"/>
+<connect gate="G$1" pin="6" pad="6"/>
+<connect gate="G$1" pin="7" pad="7"/>
+<connect gate="G$1" pin="8" pad="8"/>
+<connect gate="G$1" pin="9" pad="9 10"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="DATASHEET_LINK" value="http://www.molex.com/pdm_docs/sd/855055002_sd.pdf" constant="no"/>
+<attribute name="MANUFACTURER" value="Molx"/>
+<attribute name="MANUFACTURER_PN" value="855055002" constant="no"/>
+<attribute name="PACKAGE" value="RJ45, Thru-hole, Shielded, R/A" constant="no"/>
+<attribute name="SUPPLIER" value="Digi-Key" constant="no"/>
+<attribute name="SUPPLIER_PN" value="WM7131CT-ND" constant="no"/>
 </technology>
 </technologies>
 </device>
