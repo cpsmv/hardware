@@ -350,7 +350,7 @@ UsedLibrary="/home/apink/eagle/smv-hardware/cpsmv.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="144 193 743 592"
+Loc="0 119 2559 1439"
 State=1
 Number=0
 
