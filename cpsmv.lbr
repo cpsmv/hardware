@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.025" altunitdist="inch" altunit="inch"/>
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
@@ -3688,6 +3688,26 @@ grid 5 mm, outline 2.5 x 7.5 mm</description>
 <text x="-8.128" y="4.064" size="1.016" layer="25" font="vector" ratio="15" align="center-left">&gt;NAME</text>
 <text x="-5.334" y="0" size="1.016" layer="22" font="vector" ratio="15" rot="SR180" align="center-left">1</text>
 </package>
+<package name="204-211ST">
+<smd name="1" x="-4.905" y="1.27" dx="2.5" dy="0.7" layer="1"/>
+<smd name="2" x="4.905" y="1.27" dx="2.5" dy="0.7" layer="1"/>
+<smd name="3" x="-4.905" y="-1.27" dx="2.5" dy="0.7" layer="1"/>
+<smd name="4" x="4.905" y="-1.27" dx="2.5" dy="0.7" layer="1"/>
+<wire x1="-4.89" y1="3.83" x2="4.89" y2="3.83" width="0.127" layer="21"/>
+<wire x1="-4.89" y1="-3.83" x2="4.89" y2="-3.83" width="0.127" layer="21"/>
+<wire x1="-4.89" y1="-2" x2="-4.89" y2="-3.83" width="0.127" layer="21"/>
+<wire x1="-4.89" y1="2" x2="-4.89" y2="3.83" width="0.127" layer="21"/>
+<wire x1="-4.89" y1="-0.5" x2="-4.89" y2="0.5" width="0.127" layer="21"/>
+<wire x1="4.89" y1="2" x2="4.89" y2="3.83" width="0.127" layer="21"/>
+<wire x1="4.89" y1="-0.5" x2="4.89" y2="0.5" width="0.127" layer="21"/>
+<wire x1="4.89" y1="-2" x2="4.89" y2="-3.83" width="0.127" layer="21"/>
+<text x="-5" y="4" size="1.016" layer="21" font="vector" ratio="15">&gt;NAME</text>
+<text x="-6" y="2" size="1.016" layer="21" font="vector" ratio="15">1</text>
+<wire x1="-6.5" y1="-4.25" x2="6.5" y2="-4.25" width="0.127" layer="39"/>
+<wire x1="6.5" y1="-4.25" x2="6.5" y2="4.25" width="0.127" layer="39"/>
+<wire x1="6.5" y1="4.25" x2="-6.5" y2="4.25" width="0.127" layer="39"/>
+<wire x1="-6.5" y1="4.25" x2="-6.5" y2="-4.25" width="0.127" layer="39"/>
+</package>
 </packages>
 <symbols>
 <symbol name="R-US">
@@ -6703,6 +6723,26 @@ grid 5 mm, outline 2.5 x 7.5 mm</description>
 <text x="-17.78" y="15.24" size="1.778" layer="95" align="center-left">&gt;NAME</text>
 <text x="-17.78" y="-15.24" size="1.778" layer="95" align="center-left">&gt;VALUE</text>
 </symbol>
+<symbol name="DPST">
+<wire x1="-3.048" y1="-4.064" x2="-5.08" y2="2.286" width="0.254" layer="94"/>
+<wire x1="2.032" y1="-4.064" x2="0" y2="2.286" width="0.254" layer="94"/>
+<circle x="-2.54" y="2.54" radius="1.016" width="0.254" layer="94"/>
+<circle x="2.54" y="2.54" radius="1.016" width="0.254" layer="94"/>
+<circle x="2.54" y="-5.08" radius="1.016" width="0.254" layer="94"/>
+<circle x="-2.54" y="-5.08" radius="1.016" width="0.254" layer="94"/>
+<pin name="1" x="-2.54" y="7.366" visible="pad" length="short" direction="pas" rot="R270"/>
+<wire x1="-2.54" y1="3.556" x2="-2.54" y2="4.826" width="0.1524" layer="94"/>
+<pin name="2" x="-2.54" y="-9.906" visible="pad" length="short" direction="pas" rot="R90"/>
+<wire x1="-2.54" y1="-6.096" x2="-2.54" y2="-7.366" width="0.1524" layer="94"/>
+<pin name="3" x="2.54" y="7.366" visible="pad" length="short" direction="pas" rot="R270"/>
+<wire x1="2.54" y1="3.556" x2="2.54" y2="4.826" width="0.1524" layer="94"/>
+<pin name="4" x="2.54" y="-9.906" visible="pad" length="short" direction="pas" rot="R90"/>
+<wire x1="2.54" y1="-6.096" x2="2.54" y2="-7.366" width="0.1524" layer="94"/>
+<wire x1="-6.35" y1="-7.62" x2="6.35" y2="-7.62" width="0.254" layer="94"/>
+<wire x1="6.35" y1="-7.62" x2="6.35" y2="5.08" width="0.254" layer="94"/>
+<wire x1="6.35" y1="5.08" x2="-6.35" y2="5.08" width="0.254" layer="94"/>
+<wire x1="-6.35" y1="5.08" x2="-6.35" y2="-7.62" width="0.254" layer="94"/>
+</symbol>
 </symbols>
 <devicesets>
 <deviceset name="PINHD-1X10" prefix="J" uservalue="yes">
@@ -7438,6 +7478,32 @@ grid 5 mm, outline 2.5 x 7.5 mm</description>
 <attribute name="PACKAGE" value="RJ45, Thru-hole, Shielded, R/A" constant="no"/>
 <attribute name="SUPPLIER" value="Digi-Key" constant="no"/>
 <attribute name="SUPPLIER_PN" value="WM7131CT-ND" constant="no"/>
+</technology>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="CTS-204-211ST" prefix="SW">
+<description>DPST, SMD switch</description>
+<gates>
+<gate name="G$1" symbol="DPST" x="0" y="2.54"/>
+</gates>
+<devices>
+<device name="" package="204-211ST">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+<connect gate="G$1" pin="3" pad="3"/>
+<connect gate="G$1" pin="4" pad="4"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="DATASHEET_LINK" value="http://www.ctscorp.com/components/Datasheets/204.pdf" constant="no"/>
+<attribute name="MANUFACTURER" value="CTS" constant="no"/>
+<attribute name="MANUFACTURER_PN" value="204-211ST" constant="no"/>
+<attribute name="PACKAGE" value="SMD-4, Gull-Wing" constant="no"/>
+<attribute name="SUPPLIER" value="Digi-Key" constant="no"/>
+<attribute name="SUPPLIER_PN" value="CT204211ST-ND" constant="no"/>
 </technology>
 </technologies>
 </device>
