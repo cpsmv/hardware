@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
@@ -6732,7 +6732,7 @@ type 0414, grid 15 mm</description>
 <symbol name="RJ45">
 <pin name="1" x="2.54" y="10.16" visible="pin" length="short" direction="pwr" rot="R180"/>
 <pin name="2" x="5.08" y="7.62" visible="pin" length="middle" direction="pas" rot="R180"/>
-<pin name="9" x="0" y="-10.16" visible="pin" length="point" direction="pas" rot="R180"/>
+<pin name="9" x="2.54" y="-10.16" visible="pin" length="short" direction="pas" rot="R180"/>
 <pin name="3" x="2.54" y="5.08" visible="pin" length="short" direction="pas" rot="R180"/>
 <pin name="4" x="5.08" y="2.54" visible="pin" length="middle" direction="pas" rot="R180"/>
 <pin name="5" x="2.54" y="0" visible="pin" length="short" direction="pas" rot="R180"/>
@@ -6762,17 +6762,21 @@ type 0414, grid 15 mm</description>
 <circle x="2.54" y="2.54" radius="1.016" width="0.254" layer="94"/>
 <circle x="2.54" y="-5.08" radius="1.016" width="0.254" layer="94"/>
 <circle x="-2.54" y="-5.08" radius="1.016" width="0.254" layer="94"/>
-<pin name="1" x="-2.54" y="7.366" visible="pad" length="short" direction="pas" rot="R270"/>
-<wire x1="-2.54" y1="3.556" x2="-2.54" y2="4.826" width="0.1524" layer="94"/>
-<pin name="2" x="-2.54" y="-9.906" visible="pad" length="short" direction="pas" rot="R90"/>
-<wire x1="-2.54" y1="-6.096" x2="-2.54" y2="-7.366" width="0.1524" layer="94"/>
-<pin name="3" x="2.54" y="7.366" visible="pad" length="short" direction="pas" rot="R270"/>
-<wire x1="2.54" y1="3.556" x2="2.54" y2="4.826" width="0.1524" layer="94"/>
-<pin name="4" x="2.54" y="-9.906" visible="pad" length="short" direction="pas" rot="R90"/>
-<wire x1="2.54" y1="-6.096" x2="2.54" y2="-7.366" width="0.1524" layer="94"/>
-<wire x1="-6.35" y1="-7.62" x2="6.35" y2="-7.62" width="0.254" layer="94"/>
+<pin name="1" x="-2.54" y="7.62" visible="pad" length="short" direction="pas" rot="R270"/>
+<wire x1="-2.54" y1="3.556" x2="-2.54" y2="5.08" width="0.1524" layer="94"/>
+<pin name="2" x="-2.54" y="-10.16" visible="pad" length="short" direction="pas" rot="R90"/>
+<wire x1="-2.54" y1="-6.096" x2="-2.54" y2="-7.62" width="0.1524" layer="94"/>
+<pin name="3" x="2.54" y="7.62" visible="pad" length="short" direction="pas" rot="R270"/>
+<wire x1="2.54" y1="3.556" x2="2.54" y2="5.08" width="0.1524" layer="94"/>
+<pin name="4" x="2.54" y="-10.16" visible="pad" length="short" direction="pas" rot="R90"/>
+<wire x1="2.54" y1="-6.096" x2="2.54" y2="-7.62" width="0.1524" layer="94"/>
+<wire x1="-6.35" y1="-7.62" x2="-2.54" y2="-7.62" width="0.254" layer="94"/>
+<wire x1="-2.54" y1="-7.62" x2="2.54" y2="-7.62" width="0.254" layer="94"/>
+<wire x1="2.54" y1="-7.62" x2="6.35" y2="-7.62" width="0.254" layer="94"/>
 <wire x1="6.35" y1="-7.62" x2="6.35" y2="5.08" width="0.254" layer="94"/>
-<wire x1="6.35" y1="5.08" x2="-6.35" y2="5.08" width="0.254" layer="94"/>
+<wire x1="6.35" y1="5.08" x2="2.54" y2="5.08" width="0.254" layer="94"/>
+<wire x1="2.54" y1="5.08" x2="-2.54" y2="5.08" width="0.254" layer="94"/>
+<wire x1="-2.54" y1="5.08" x2="-6.35" y2="5.08" width="0.254" layer="94"/>
 <wire x1="-6.35" y1="5.08" x2="-6.35" y2="-7.62" width="0.254" layer="94"/>
 </symbol>
 </symbols>
@@ -7484,7 +7488,7 @@ type 0414, grid 15 mm</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MOLEX-85505-5002">
+<deviceset name="MOLEX-85505-5002" prefix="J">
 <description>RJ45 Connector, Through-hole, Shielded, Right-angle</description>
 <gates>
 <gate name="G$1" symbol="RJ45" x="5.08" y="0"/>
@@ -7542,7 +7546,7 @@ type 0414, grid 15 mm</description>
 </devices>
 </deviceset>
 <deviceset name="VISHAY_DALE-LVR03R0100FE70" prefix="R" uservalue="yes">
-<description>Precision 0.1% tolerance current-sensing resistor. Axial-lead, 5.0mΩ</description>
+<description>Precision 0.1% tolerance current-sensing resistor. Axial-lead, 10mΩ</description>
 <gates>
 <gate name="G$1" symbol="R-US" x="0" y="0"/>
 </gates>
@@ -7553,7 +7557,14 @@ type 0414, grid 15 mm</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="DATASHEET_LINK" value="http://www.vishay.com/docs/30206/lvr.pdf" constant="no"/>
+<attribute name="MANUFACTURER" value="Vishay Dale" constant="no"/>
+<attribute name="MANUFACTURER_PN" value="LVR03R0100FE70" constant="no"/>
+<attribute name="PACKAGE" value="14mm X 5.2mm axial" constant="no"/>
+<attribute name="SUPPLIER" value="Digi-Key" constant="no"/>
+<attribute name="SUPPLIER_PN" value="LVRB-.01RCT-ND" constant="no"/>
+</technology>
 </technologies>
 </device>
 </devices>
