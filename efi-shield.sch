@@ -7535,15 +7535,15 @@ DAC0
 DAC1
 CANRX
 CANTX</text>
-<text x="139.7" y="193.04" size="5.08" layer="97">ARDUINO DUE</text>
-<text x="43.18" y="193.04" size="5.08" layer="97">AMPSEAL </text>
+<text x="139.7" y="193.04" size="5.08" layer="97" font="vector">ARDUINO DUE</text>
+<text x="43.18" y="193.04" size="5.08" layer="97" font="vector">AMPSEAL </text>
 <text x="223.52" y="157.48" size="1.27" layer="97" align="center-left">RESET</text>
-<text x="314.96" y="193.04" size="5.08" layer="97">SPI</text>
-<text x="20.32" y="99.06" size="5.08" layer="97">SPARE INPUTS</text>
+<text x="314.96" y="193.04" size="5.08" layer="97" font="vector">SPI</text>
+<text x="20.32" y="99.06" size="5.08" layer="97" font="vector">SPARE INPUTS</text>
 <text x="336.55" y="15.24" size="2.54" layer="94" font="vector">Alex Pink</text>
 <text x="361.95" y="5.08" size="2.54" layer="94" font="vector">01</text>
 <text x="334.01" y="20.32" size="2.54" layer="94" font="vector">Connectors &amp; SPI</text>
-<text x="223.52" y="91.44" size="5.08" layer="97">POWER TEST
+<text x="223.52" y="91.44" size="5.08" layer="97" font="vector">POWER TEST
   POINTS</text>
 </plain>
 <instances>
@@ -8215,11 +8215,11 @@ CANTX</text>
 <sheet>
 <description>ACTUATORS</description>
 <plain>
-<text x="190.5" y="186.69" size="5.08" layer="97">FUEL</text>
+<text x="190.5" y="186.69" size="5.08" layer="97" font="vector">FUEL</text>
 <text x="336.55" y="15.24" size="2.54" layer="94" font="vector">Alex Pink</text>
 <text x="361.95" y="5.08" size="2.54" layer="94" font="vector">01</text>
 <text x="334.01" y="20.32" size="2.54" layer="94" font="vector">Actutators</text>
-<text x="187.96" y="123.19" size="5.08" layer="97">SPARK</text>
+<text x="187.96" y="123.19" size="5.08" layer="97" font="vector">SPARK</text>
 </plain>
 <instances>
 <instance part="R1" gate="G$1" x="187.96" y="167.64" smashed="yes">
@@ -8374,8 +8374,8 @@ MCP602x devices.</text>
 <wire x1="168.91" y1="125.73" x2="168.91" y2="135.89" width="0.1524" layer="97"/>
 <wire x1="194.31" y1="135.89" x2="194.31" y2="127" width="0.1524" layer="97"/>
 <wire x1="194.31" y1="127" x2="193.04" y2="125.73" width="0.1524" layer="97"/>
-<text x="124.46" y="203.2" size="5.08" layer="97">LOW PASS FILTERS</text>
-<text x="297.18" y="175.26" size="5.08" layer="97">ADC</text>
+<text x="124.46" y="203.2" size="5.08" layer="97" font="vector">LOW PASS FILTERS</text>
+<text x="297.18" y="175.26" size="5.08" layer="97" font="vector">ADC</text>
 <text x="336.55" y="15.24" size="2.54" layer="94" font="vector">Alex Pink</text>
 <text x="361.95" y="5.08" size="2.54" layer="94" font="vector">01</text>
 <text x="334.01" y="20.32" size="2.54" layer="94" font="vector">Analog Inputs</text>
@@ -9306,7 +9306,7 @@ to the Vdd pin.</text>
 <text x="336.55" y="15.24" size="2.54" layer="94" font="vector">Alex Pink</text>
 <text x="361.95" y="5.08" size="2.54" layer="94" font="vector">01</text>
 <text x="334.01" y="20.32" size="2.54" layer="94" font="vector">Tach</text>
-<text x="60.96" y="198.12" size="5.08" layer="97">LOW PASS FILTER</text>
+<text x="60.96" y="198.12" size="5.08" layer="97" font="vector">LOW PASS FILTER</text>
 <text x="55.88" y="185.42" size="1.27" layer="97" font="vector" align="top-left">LAYOUT NOTE:
 Place decoupling caps 
 within 2mm of pin for 
@@ -9326,8 +9326,8 @@ MCP602x devices.</text>
 <wire x1="133.35" y1="176.53" x2="133.35" y2="189.23" width="0.1524" layer="97"/>
 <wire x1="158.75" y1="189.23" x2="158.75" y2="177.8" width="0.1524" layer="97"/>
 <wire x1="158.75" y1="177.8" x2="157.48" y2="176.53" width="0.1524" layer="97"/>
-<text x="271.78" y="134.62" size="5.08" layer="97">555 TIMER</text>
-<text x="165.1" y="198.12" size="5.08" layer="97">   DIGITAL
+<text x="271.78" y="134.62" size="5.08" layer="97" font="vector">555 TIMER</text>
+<text x="165.1" y="198.12" size="5.08" layer="97" font="vector">   DIGITAL
 POTENTIOMETERS</text>
 <text x="274.32" y="76.2" size="1.27" layer="97" font="vector" align="top-left">This capacitor should be 
 changed per the trigger 
@@ -9711,6 +9711,9 @@ best CAN performance.</text>
 <wire x1="143.51" y1="105.41" x2="143.51" y2="118.11" width="0.1524" layer="97"/>
 <wire x1="171.45" y1="118.11" x2="171.45" y2="106.68" width="0.1524" layer="97"/>
 <wire x1="171.45" y1="106.68" x2="170.18" y2="105.41" width="0.1524" layer="97"/>
+<text x="124.46" y="170.18" size="5.08" layer="97" font="vector">TRANSCEIVER</text>
+<text x="167.64" y="81.28" size="5.08" layer="97" font="vector">TERMINATION</text>
+<text x="233.68" y="190.5" size="5.08" layer="97" font="vector">RJ45 CONNECTORS</text>
 </plain>
 <instances>
 <instance part="U$5" gate="G$1" x="0" y="0"/>
@@ -9960,11 +9963,11 @@ best CAN performance.</text>
 <text x="336.55" y="15.24" size="2.54" layer="94" font="vector">Alex Pink</text>
 <text x="361.95" y="5.08" size="2.54" layer="94" font="vector">01</text>
 <text x="334.01" y="20.32" size="2.54" layer="94" font="vector">LEDs</text>
-<text x="93.98" y="147.32" size="5.08" layer="97">POWER</text>
-<text x="180.34" y="170.18" size="5.08" layer="97">SPARK LED</text>
-<text x="180.34" y="129.54" size="5.08" layer="97">FUEL LED</text>
-<text x="284.48" y="170.18" size="5.08" layer="97">REV LIMIT LED</text>
-<text x="284.48" y="129.54" size="5.08" layer="97">KILLSWITCH LED</text>
+<text x="93.98" y="147.32" size="5.08" layer="97" font="vector">POWER</text>
+<text x="180.34" y="170.18" size="5.08" layer="97" font="vector">SPARK LED</text>
+<text x="180.34" y="129.54" size="5.08" layer="97" font="vector">FUEL LED</text>
+<text x="284.48" y="170.18" size="5.08" layer="97" font="vector">REV LIMIT LED</text>
+<text x="284.48" y="129.54" size="5.08" layer="97" font="vector">KILLSWITCH LED</text>
 </plain>
 <instances>
 <instance part="U$6" gate="G$1" x="0" y="0"/>
