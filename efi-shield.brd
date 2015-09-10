@@ -799,109 +799,6 @@ type 0414, grid 15 mm</description>
 <circle x="-2.6416" y="3.175" radius="0.1778" width="0.127" layer="21"/>
 <circle x="-2.6416" y="3.175" radius="0.30585625" width="0.127" layer="21"/>
 </package>
-<package name="SOIC127P600X175-16N">
-<smd name="1" x="-2.3622" y="4.445" dx="1.9812" dy="0.5588" layer="1"/>
-<smd name="2" x="-2.3622" y="3.175" dx="1.9812" dy="0.5588" layer="1"/>
-<smd name="3" x="-2.3622" y="1.905" dx="1.9812" dy="0.5588" layer="1"/>
-<smd name="4" x="-2.3622" y="0.635" dx="1.9812" dy="0.5588" layer="1"/>
-<smd name="5" x="-2.3622" y="-0.635" dx="1.9812" dy="0.5588" layer="1"/>
-<smd name="6" x="-2.3622" y="-1.905" dx="1.9812" dy="0.5588" layer="1"/>
-<smd name="7" x="-2.3622" y="-3.175" dx="1.9812" dy="0.5588" layer="1"/>
-<smd name="8" x="-2.3622" y="-4.445" dx="1.9812" dy="0.5588" layer="1"/>
-<smd name="9" x="2.3622" y="-4.445" dx="1.9812" dy="0.5588" layer="1"/>
-<smd name="10" x="2.3622" y="-3.175" dx="1.9812" dy="0.5588" layer="1"/>
-<smd name="11" x="2.3622" y="-1.905" dx="1.9812" dy="0.5588" layer="1"/>
-<smd name="12" x="2.3622" y="-0.635" dx="1.9812" dy="0.5588" layer="1"/>
-<smd name="13" x="2.3622" y="0.635" dx="1.9812" dy="0.5588" layer="1"/>
-<smd name="14" x="2.3622" y="1.905" dx="1.9812" dy="0.5588" layer="1"/>
-<smd name="15" x="2.3622" y="3.175" dx="1.9812" dy="0.5588" layer="1"/>
-<smd name="16" x="2.3622" y="4.445" dx="1.9812" dy="0.5588" layer="1"/>
-<wire x1="-1.9558" y1="4.191" x2="-1.9558" y2="4.699" width="0.1524" layer="51"/>
-<wire x1="-1.9558" y1="4.699" x2="-2.9972" y2="4.699" width="0.1524" layer="51"/>
-<wire x1="-2.9972" y1="4.699" x2="-2.9972" y2="4.191" width="0.1524" layer="51"/>
-<wire x1="-2.9972" y1="4.191" x2="-1.9558" y2="4.191" width="0.1524" layer="51"/>
-<wire x1="-1.9558" y1="2.921" x2="-1.9558" y2="3.429" width="0.1524" layer="51"/>
-<wire x1="-1.9558" y1="3.429" x2="-2.9972" y2="3.429" width="0.1524" layer="51"/>
-<wire x1="-2.9972" y1="3.429" x2="-2.9972" y2="2.921" width="0.1524" layer="51"/>
-<wire x1="-2.9972" y1="2.921" x2="-1.9558" y2="2.921" width="0.1524" layer="51"/>
-<wire x1="-1.9558" y1="1.651" x2="-1.9558" y2="2.159" width="0.1524" layer="51"/>
-<wire x1="-1.9558" y1="2.159" x2="-2.9972" y2="2.159" width="0.1524" layer="51"/>
-<wire x1="-2.9972" y1="2.159" x2="-2.9972" y2="1.651" width="0.1524" layer="51"/>
-<wire x1="-2.9972" y1="1.651" x2="-1.9558" y2="1.651" width="0.1524" layer="51"/>
-<wire x1="-1.9558" y1="0.381" x2="-1.9558" y2="0.889" width="0.1524" layer="51"/>
-<wire x1="-1.9558" y1="0.889" x2="-2.9972" y2="0.889" width="0.1524" layer="51"/>
-<wire x1="-2.9972" y1="0.889" x2="-2.9972" y2="0.381" width="0.1524" layer="51"/>
-<wire x1="-2.9972" y1="0.381" x2="-1.9558" y2="0.381" width="0.1524" layer="51"/>
-<wire x1="-1.9558" y1="-0.889" x2="-1.9558" y2="-0.381" width="0.1524" layer="51"/>
-<wire x1="-1.9558" y1="-0.381" x2="-2.9972" y2="-0.381" width="0.1524" layer="51"/>
-<wire x1="-2.9972" y1="-0.381" x2="-2.9972" y2="-0.889" width="0.1524" layer="51"/>
-<wire x1="-2.9972" y1="-0.889" x2="-1.9558" y2="-0.889" width="0.1524" layer="51"/>
-<wire x1="-1.9558" y1="-2.159" x2="-1.9558" y2="-1.651" width="0.1524" layer="51"/>
-<wire x1="-1.9558" y1="-1.651" x2="-2.9972" y2="-1.651" width="0.1524" layer="51"/>
-<wire x1="-2.9972" y1="-1.651" x2="-2.9972" y2="-2.159" width="0.1524" layer="51"/>
-<wire x1="-2.9972" y1="-2.159" x2="-1.9558" y2="-2.159" width="0.1524" layer="51"/>
-<wire x1="-1.9558" y1="-3.429" x2="-1.9558" y2="-2.921" width="0.1524" layer="51"/>
-<wire x1="-1.9558" y1="-2.921" x2="-2.9972" y2="-2.921" width="0.1524" layer="51"/>
-<wire x1="-2.9972" y1="-2.921" x2="-2.9972" y2="-3.429" width="0.1524" layer="51"/>
-<wire x1="-2.9972" y1="-3.429" x2="-1.9558" y2="-3.429" width="0.1524" layer="51"/>
-<wire x1="-1.9558" y1="-4.699" x2="-1.9558" y2="-4.191" width="0.1524" layer="51"/>
-<wire x1="-1.9558" y1="-4.191" x2="-2.9972" y2="-4.191" width="0.1524" layer="51"/>
-<wire x1="-2.9972" y1="-4.191" x2="-2.9972" y2="-4.699" width="0.1524" layer="51"/>
-<wire x1="-2.9972" y1="-4.699" x2="-1.9558" y2="-4.699" width="0.1524" layer="51"/>
-<wire x1="1.9558" y1="-4.191" x2="1.9558" y2="-4.699" width="0.1524" layer="51"/>
-<wire x1="1.9558" y1="-4.699" x2="2.9972" y2="-4.699" width="0.1524" layer="51"/>
-<wire x1="2.9972" y1="-4.699" x2="2.9972" y2="-4.191" width="0.1524" layer="51"/>
-<wire x1="2.9972" y1="-4.191" x2="1.9558" y2="-4.191" width="0.1524" layer="51"/>
-<wire x1="1.9558" y1="-2.921" x2="1.9558" y2="-3.429" width="0.1524" layer="51"/>
-<wire x1="1.9558" y1="-3.429" x2="2.9972" y2="-3.429" width="0.1524" layer="51"/>
-<wire x1="2.9972" y1="-3.429" x2="2.9972" y2="-2.921" width="0.1524" layer="51"/>
-<wire x1="2.9972" y1="-2.921" x2="1.9558" y2="-2.921" width="0.1524" layer="51"/>
-<wire x1="1.9558" y1="-1.651" x2="1.9558" y2="-2.159" width="0.1524" layer="51"/>
-<wire x1="1.9558" y1="-2.159" x2="2.9972" y2="-2.159" width="0.1524" layer="51"/>
-<wire x1="2.9972" y1="-2.159" x2="2.9972" y2="-1.651" width="0.1524" layer="51"/>
-<wire x1="2.9972" y1="-1.651" x2="1.9558" y2="-1.651" width="0.1524" layer="51"/>
-<wire x1="1.9558" y1="-0.381" x2="1.9558" y2="-0.889" width="0.1524" layer="51"/>
-<wire x1="1.9558" y1="-0.889" x2="2.9972" y2="-0.889" width="0.1524" layer="51"/>
-<wire x1="2.9972" y1="-0.889" x2="2.9972" y2="-0.381" width="0.1524" layer="51"/>
-<wire x1="2.9972" y1="-0.381" x2="1.9558" y2="-0.381" width="0.1524" layer="51"/>
-<wire x1="1.9558" y1="0.889" x2="1.9558" y2="0.381" width="0.1524" layer="51"/>
-<wire x1="1.9558" y1="0.381" x2="2.9972" y2="0.381" width="0.1524" layer="51"/>
-<wire x1="2.9972" y1="0.381" x2="2.9972" y2="0.889" width="0.1524" layer="51"/>
-<wire x1="2.9972" y1="0.889" x2="1.9558" y2="0.889" width="0.1524" layer="51"/>
-<wire x1="1.9558" y1="2.159" x2="1.9558" y2="1.651" width="0.1524" layer="51"/>
-<wire x1="1.9558" y1="1.651" x2="2.9972" y2="1.651" width="0.1524" layer="51"/>
-<wire x1="2.9972" y1="1.651" x2="2.9972" y2="2.159" width="0.1524" layer="51"/>
-<wire x1="2.9972" y1="2.159" x2="1.9558" y2="2.159" width="0.1524" layer="51"/>
-<wire x1="1.9558" y1="3.429" x2="1.9558" y2="2.921" width="0.1524" layer="51"/>
-<wire x1="1.9558" y1="2.921" x2="2.9972" y2="2.921" width="0.1524" layer="51"/>
-<wire x1="2.9972" y1="2.921" x2="2.9972" y2="3.429" width="0.1524" layer="51"/>
-<wire x1="2.9972" y1="3.429" x2="1.9558" y2="3.429" width="0.1524" layer="51"/>
-<wire x1="1.9558" y1="4.699" x2="1.9558" y2="4.191" width="0.1524" layer="51"/>
-<wire x1="1.9558" y1="4.191" x2="2.9972" y2="4.191" width="0.1524" layer="51"/>
-<wire x1="2.9972" y1="4.191" x2="2.9972" y2="4.699" width="0.1524" layer="51"/>
-<wire x1="2.9972" y1="4.699" x2="1.9558" y2="4.699" width="0.1524" layer="51"/>
-<wire x1="-1.9558" y1="-4.953" x2="1.9558" y2="-4.953" width="0.1524" layer="51"/>
-<wire x1="1.9558" y1="-4.953" x2="1.9558" y2="4.953" width="0.1524" layer="51"/>
-<wire x1="1.9558" y1="4.953" x2="0.3048" y2="4.953" width="0.1524" layer="51"/>
-<wire x1="0.3048" y1="4.953" x2="-0.3048" y2="4.953" width="0.1524" layer="51"/>
-<wire x1="-0.3048" y1="4.953" x2="-1.9558" y2="4.953" width="0.1524" layer="51"/>
-<wire x1="-1.9558" y1="4.953" x2="-1.9558" y2="-4.953" width="0.1524" layer="51"/>
-<wire x1="0.3048" y1="4.953" x2="-0.3048" y2="4.953" width="0" layer="51" curve="-180"/>
-<wire x1="-1.1176" y1="-4.953" x2="1.1176" y2="-4.953" width="0.1524" layer="21"/>
-<wire x1="1.1176" y1="4.953" x2="0.3048" y2="4.953" width="0.1524" layer="21"/>
-<wire x1="0.3048" y1="4.953" x2="-0.3048" y2="4.953" width="0.1524" layer="21"/>
-<wire x1="-0.3048" y1="4.953" x2="-1.1176" y2="4.953" width="0.1524" layer="21"/>
-<wire x1="0.3048" y1="4.953" x2="-0.3048" y2="4.953" width="0" layer="21" curve="-180"/>
-<text x="-1.9304" y="5.2832" size="1.016" layer="25" font="vector" ratio="15" rot="SR0">&gt;NAME</text>
-<text x="-2.7432" y="-6.223" size="1.016" layer="27" font="vector" ratio="15" rot="SR0">&gt;VALUE</text>
-<circle x="-2.6162" y="5.6642" radius="0.0508" width="0.127" layer="21"/>
-<circle x="-2.6162" y="5.6642" radius="0.1778" width="0.127" layer="21"/>
-<circle x="-2.6162" y="5.6642" radius="0.30585625" width="0.127" layer="21"/>
-<wire x1="-3.6068" y1="5.2578" x2="3.6068" y2="5.2324" width="0.3048" layer="39"/>
-<wire x1="3.6068" y1="5.2324" x2="3.6322" y2="-5.1562" width="0.3048" layer="39"/>
-<wire x1="3.6322" y1="-5.1562" x2="-3.6322" y2="-5.1562" width="0.3048" layer="39"/>
-<wire x1="-3.6322" y1="-5.1562" x2="-3.6068" y2="5.2578" width="0.3048" layer="39"/>
-</package>
 <package name="CPSMV_FRAME">
 <wire x1="288.29" y1="3.81" x2="316.865" y2="3.81" width="0.1016" layer="48"/>
 <wire x1="316.865" y1="3.81" x2="350.52" y2="3.81" width="0.1016" layer="48"/>
@@ -3406,6 +3303,40 @@ type 0414, grid 15 mm</description>
 <rectangle x1="302.41875" y1="28.54325" x2="302.54575" y2="28.60675" layer="48"/>
 <rectangle x1="303.68875" y1="28.54325" x2="303.75225" y2="28.60675" layer="48"/>
 </package>
+<package name="SOP08">
+<description>&lt;b&gt;SMALL OUTLINE PACKAGE&lt;/b&gt;</description>
+<wire x1="-3.4" y1="3.9" x2="3.4" y2="3.9" width="0.1998" layer="39"/>
+<wire x1="3.4" y1="3.9" x2="3.4" y2="-3.9" width="0.1998" layer="39"/>
+<wire x1="-3.4" y1="-3.9" x2="-3.4" y2="3.9" width="0.1998" layer="39"/>
+<wire x1="3.07" y1="2.26" x2="3.07" y2="-2.26" width="0.2032" layer="21"/>
+<wire x1="3.07" y1="-2.26" x2="2.54" y2="-2.26" width="0.2032" layer="21"/>
+<wire x1="-2.54" y1="-2.2606" x2="-3.07" y2="-2.26" width="0.2032" layer="21"/>
+<wire x1="-3.07" y1="-2.26" x2="-3.07" y2="2.26" width="0.2032" layer="21"/>
+<wire x1="-3.07" y1="2.26" x2="-2.54" y2="2.26" width="0.2032" layer="21"/>
+<wire x1="3.4" y1="-3.9" x2="-3.4" y2="-3.9" width="0.1998" layer="39"/>
+<smd name="1" x="-1.905" y="-2.6" dx="0.6" dy="2.2" layer="1"/>
+<smd name="2" x="-0.635" y="-2.6" dx="0.6" dy="2.2" layer="1"/>
+<smd name="3" x="0.635" y="-2.6" dx="0.6" dy="2.2" layer="1"/>
+<smd name="4" x="1.905" y="-2.6" dx="0.6" dy="2.2" layer="1"/>
+<smd name="5" x="1.905" y="2.6" dx="0.6" dy="2.2" layer="1"/>
+<smd name="6" x="0.635" y="2.6" dx="0.6" dy="2.2" layer="1"/>
+<smd name="7" x="-0.635" y="2.6" dx="0.6" dy="2.2" layer="1" cream="no"/>
+<smd name="8" x="-1.905" y="2.6" dx="0.6" dy="2.2" layer="1" cream="no"/>
+<text x="-3.429" y="-2.159" size="1.016" layer="25" font="vector" ratio="15" rot="R90">&gt;NAME</text>
+<text x="4.445" y="-2.921" size="1.016" layer="27" font="vector" ratio="15" rot="R90">&gt;VALUE</text>
+<rectangle x1="-2.1549" y1="-3.49" x2="-1.6551" y2="-2.3599" layer="51"/>
+<rectangle x1="-0.8849" y1="-3.49" x2="-0.3851" y2="-2.3599" layer="51"/>
+<rectangle x1="0.3851" y1="-3.49" x2="0.8849" y2="-2.3599" layer="51"/>
+<rectangle x1="1.6551" y1="-3.49" x2="2.1549" y2="-2.3599" layer="51"/>
+<rectangle x1="1.6551" y1="2.3599" x2="2.1549" y2="3.49" layer="51"/>
+<rectangle x1="0.3851" y1="2.3599" x2="0.8849" y2="3.49" layer="51"/>
+<rectangle x1="-0.8849" y1="2.3599" x2="-0.3851" y2="3.49" layer="51"/>
+<rectangle x1="-2.1549" y1="2.3599" x2="-1.6551" y2="3.49" layer="51"/>
+<wire x1="2.518" y1="2.26" x2="3.048" y2="2.26" width="0.2032" layer="21"/>
+<circle x="-3.6322" y="-2.921" radius="0.0508" width="0.127" layer="21"/>
+<circle x="-3.6322" y="-2.921" radius="0.1778" width="0.127" layer="21"/>
+<circle x="-3.6322" y="-2.921" radius="0.30585625" width="0.127" layer="21"/>
+</package>
 </packages>
 </library>
 </libraries>
@@ -3605,86 +3536,6 @@ design rules under a new name.</description>
 <attribute name="MANUFACTURER_PN" value="n/a" x="-205.359" y="247.396" size="1.778" layer="27" display="off"/>
 <attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/capacitor-kit.html" x="-205.359" y="247.396" size="1.778" layer="27" display="off"/>
 </element>
-<element name="C10" library="cpsmv" package="C050-025X075" value="330pF" x="-285.369" y="247.396">
-<attribute name="MANUFACTURER" value="joe Knows Electronics" x="-285.369" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="C050-025X075" x="-285.369" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-285.369" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe knows Electronics" x="-285.369" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-285.369" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/capacitor-kit.html" x="-285.369" y="247.396" size="1.778" layer="27" display="off"/>
-</element>
-<element name="C11" library="cpsmv" package="C050-025X075" value="330pF" x="-294.259" y="247.396">
-<attribute name="MANUFACTURER" value="joe Knows Electronics" x="-294.259" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="C050-025X075" x="-294.259" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-294.259" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe knows Electronics" x="-294.259" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-294.259" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/capacitor-kit.html" x="-294.259" y="247.396" size="1.778" layer="27" display="off"/>
-</element>
-<element name="C12" library="cpsmv" package="C050-025X075" value="330pF" x="-303.149" y="247.396">
-<attribute name="MANUFACTURER" value="joe Knows Electronics" x="-303.149" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="C050-025X075" x="-303.149" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-303.149" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe knows Electronics" x="-303.149" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-303.149" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/capacitor-kit.html" x="-303.149" y="247.396" size="1.778" layer="27" display="off"/>
-</element>
-<element name="C13" library="cpsmv" package="C050-025X075" value="330pF" x="-312.039" y="247.396">
-<attribute name="MANUFACTURER" value="joe Knows Electronics" x="-312.039" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="C050-025X075" x="-312.039" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-312.039" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe knows Electronics" x="-312.039" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-312.039" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/capacitor-kit.html" x="-312.039" y="247.396" size="1.778" layer="27" display="off"/>
-</element>
-<element name="C14" library="cpsmv" package="C050-025X075" value="47nF" x="-320.929" y="247.396">
-<attribute name="MANUFACTURER" value="joe Knows Electronics" x="-320.929" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="C050-025X075" x="-320.929" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-320.929" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe knows Electronics" x="-320.929" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-320.929" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/capacitor-kit.html" x="-320.929" y="247.396" size="1.778" layer="27" display="off"/>
-</element>
-<element name="C15" library="cpsmv" package="C050-025X075" value="330pF" x="-135.636" y="275.971">
-<attribute name="MANUFACTURER" value="joe Knows Electronics" x="-135.636" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="C050-025X075" x="-135.636" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-135.636" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe knows Electronics" x="-135.636" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-135.636" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/capacitor-kit.html" x="-135.636" y="275.971" size="1.778" layer="27" display="off"/>
-</element>
-<element name="C16" library="cpsmv" package="C050-025X075" value="330pF" x="-144.526" y="275.971">
-<attribute name="MANUFACTURER" value="joe Knows Electronics" x="-144.526" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="C050-025X075" x="-144.526" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-144.526" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe knows Electronics" x="-144.526" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-144.526" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/capacitor-kit.html" x="-144.526" y="275.971" size="1.778" layer="27" display="off"/>
-</element>
-<element name="C17" library="cpsmv" package="C050-025X075" value="330pF" x="-153.416" y="275.971">
-<attribute name="MANUFACTURER" value="joe Knows Electronics" x="-153.416" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="C050-025X075" x="-153.416" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-153.416" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe knows Electronics" x="-153.416" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-153.416" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/capacitor-kit.html" x="-153.416" y="275.971" size="1.778" layer="27" display="off"/>
-</element>
-<element name="C18" library="cpsmv" package="C050-025X075" value="330pF" x="-162.306" y="275.971">
-<attribute name="MANUFACTURER" value="joe Knows Electronics" x="-162.306" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="C050-025X075" x="-162.306" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-162.306" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe knows Electronics" x="-162.306" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-162.306" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/capacitor-kit.html" x="-162.306" y="275.971" size="1.778" layer="27" display="off"/>
-</element>
-<element name="C19" library="cpsmv" package="C050-025X075" value="330pF" x="-171.196" y="275.971">
-<attribute name="MANUFACTURER" value="joe Knows Electronics" x="-171.196" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="C050-025X075" x="-171.196" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-171.196" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe knows Electronics" x="-171.196" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-171.196" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/capacitor-kit.html" x="-171.196" y="275.971" size="1.778" layer="27" display="off"/>
-</element>
 <element name="C2" library="cpsmv" package="C050-025X075" value="0.1uF" x="-214.249" y="247.396">
 <attribute name="MANUFACTURER" value="joe Knows Electronics" x="-214.249" y="247.396" size="1.778" layer="27" display="off"/>
 <attribute name="PACKAGE" value="C050-025X075" x="-214.249" y="247.396" size="1.778" layer="27" display="off"/>
@@ -3692,54 +3543,6 @@ design rules under a new name.</description>
 <attribute name="SUPPLIER" value="Joe knows Electronics" x="-214.249" y="247.396" size="1.778" layer="27" display="off"/>
 <attribute name="MANUFACTURER_PN" value="n/a" x="-214.249" y="247.396" size="1.778" layer="27" display="off"/>
 <attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/capacitor-kit.html" x="-214.249" y="247.396" size="1.778" layer="27" display="off"/>
-</element>
-<element name="C20" library="cpsmv" package="C050-025X075" value="330pF" x="-180.086" y="275.971">
-<attribute name="MANUFACTURER" value="joe Knows Electronics" x="-180.086" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="C050-025X075" x="-180.086" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-180.086" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe knows Electronics" x="-180.086" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-180.086" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/capacitor-kit.html" x="-180.086" y="275.971" size="1.778" layer="27" display="off"/>
-</element>
-<element name="C21" library="cpsmv" package="C050-025X075" value="330pF" x="-188.976" y="275.971">
-<attribute name="MANUFACTURER" value="joe Knows Electronics" x="-188.976" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="C050-025X075" x="-188.976" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-188.976" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe knows Electronics" x="-188.976" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-188.976" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/capacitor-kit.html" x="-188.976" y="275.971" size="1.778" layer="27" display="off"/>
-</element>
-<element name="C22" library="cpsmv" package="C050-025X075" value="330pF" x="-197.866" y="275.971">
-<attribute name="MANUFACTURER" value="joe Knows Electronics" x="-197.866" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="C050-025X075" x="-197.866" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-197.866" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe knows Electronics" x="-197.866" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-197.866" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/capacitor-kit.html" x="-197.866" y="275.971" size="1.778" layer="27" display="off"/>
-</element>
-<element name="C23" library="cpsmv" package="C050-025X075" value="2.2uF" x="-206.756" y="275.971">
-<attribute name="MANUFACTURER" value="joe Knows Electronics" x="-206.756" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="C050-025X075" x="-206.756" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-206.756" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe knows Electronics" x="-206.756" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-206.756" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/capacitor-kit.html" x="-206.756" y="275.971" size="1.778" layer="27" display="off"/>
-</element>
-<element name="C24" library="cpsmv" package="C050-025X075" value="0.1uF" x="-215.646" y="275.971">
-<attribute name="MANUFACTURER" value="joe Knows Electronics" x="-215.646" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="C050-025X075" x="-215.646" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-215.646" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe knows Electronics" x="-215.646" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-215.646" y="275.971" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/capacitor-kit.html" x="-215.646" y="275.971" size="1.778" layer="27" display="off"/>
-</element>
-<element name="C3" library="cpsmv" package="C050-025X075" value="0.1uF" x="-223.139" y="247.396">
-<attribute name="MANUFACTURER" value="joe Knows Electronics" x="-223.139" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="C050-025X075" x="-223.139" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-223.139" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe knows Electronics" x="-223.139" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-223.139" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/capacitor-kit.html" x="-223.139" y="247.396" size="1.778" layer="27" display="off"/>
 </element>
 <element name="C33" library="cpsmv" package="C050-025X075" value="0.1uF" x="-295.656" y="275.971">
 <attribute name="MANUFACTURER" value="joe Knows Electronics" x="-295.656" y="275.971" size="1.778" layer="27" display="off"/>
@@ -3772,54 +3575,6 @@ design rules under a new name.</description>
 <attribute name="SUPPLIER" value="Joe knows Electronics" x="-322.326" y="275.971" size="1.778" layer="27" display="off"/>
 <attribute name="MANUFACTURER_PN" value="n/a" x="-322.326" y="275.971" size="1.778" layer="27" display="off"/>
 <attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/capacitor-kit.html" x="-322.326" y="275.971" size="1.778" layer="27" display="off"/>
-</element>
-<element name="C4" library="cpsmv" package="C050-025X075" value="0.1uF" x="-232.029" y="247.396">
-<attribute name="MANUFACTURER" value="joe Knows Electronics" x="-232.029" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="C050-025X075" x="-232.029" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-232.029" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe knows Electronics" x="-232.029" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-232.029" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/capacitor-kit.html" x="-232.029" y="247.396" size="1.778" layer="27" display="off"/>
-</element>
-<element name="C5" library="cpsmv" package="C050-025X075" value="47nF" x="-240.919" y="247.396">
-<attribute name="MANUFACTURER" value="joe Knows Electronics" x="-240.919" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="C050-025X075" x="-240.919" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-240.919" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe knows Electronics" x="-240.919" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-240.919" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/capacitor-kit.html" x="-240.919" y="247.396" size="1.778" layer="27" display="off"/>
-</element>
-<element name="C6" library="cpsmv" package="C050-025X075" value="330pF" x="-249.809" y="247.396">
-<attribute name="MANUFACTURER" value="joe Knows Electronics" x="-249.809" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="C050-025X075" x="-249.809" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-249.809" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe knows Electronics" x="-249.809" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-249.809" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/capacitor-kit.html" x="-249.809" y="247.396" size="1.778" layer="27" display="off"/>
-</element>
-<element name="C7" library="cpsmv" package="C050-025X075" value="330pF" x="-258.699" y="247.396">
-<attribute name="MANUFACTURER" value="joe Knows Electronics" x="-258.699" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="C050-025X075" x="-258.699" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-258.699" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe knows Electronics" x="-258.699" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-258.699" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/capacitor-kit.html" x="-258.699" y="247.396" size="1.778" layer="27" display="off"/>
-</element>
-<element name="C8" library="cpsmv" package="C050-025X075" value="330pF" x="-267.589" y="247.396">
-<attribute name="MANUFACTURER" value="joe Knows Electronics" x="-267.589" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="C050-025X075" x="-267.589" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-267.589" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe knows Electronics" x="-267.589" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-267.589" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/capacitor-kit.html" x="-267.589" y="247.396" size="1.778" layer="27" display="off"/>
-</element>
-<element name="C9" library="cpsmv" package="C050-025X075" value="330pF" x="-276.479" y="247.396">
-<attribute name="MANUFACTURER" value="joe Knows Electronics" x="-276.479" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="C050-025X075" x="-276.479" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-276.479" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe knows Electronics" x="-276.479" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-276.479" y="247.396" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/capacitor-kit.html" x="-276.479" y="247.396" size="1.778" layer="27" display="off"/>
 </element>
 <element name="D1" library="cpsmv" package="LED,THRU-HOLE,R/A" value="GREEN" x="111.613" y="53.147" rot="R90">
 <attribute name="MANUFACTURER" value="Lite-On" x="111.613" y="53.147" size="1.778" layer="27" rot="R90" display="off"/>
@@ -3866,7 +3621,7 @@ design rules under a new name.</description>
 <attribute name="MANUFACTURER_PN" value="LTL-523-11" x="111.54" y="66.4" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="DATASHEET_LINK" value="http://optoelectronics.liteon.com/upload/download/DS-20-92-0410/S_110_LTL-533-11.pdf" x="111.54" y="66.4" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
-<element name="J1" library="cpsmv" package="1X10" value="PWMH" x="33.02" y="51.562">
+<element name="J1" library="cpsmv" package="1X10" value="PWMH" x="33.02" y="51.562" locked="yes">
 <attribute name="MANUFACTURER" value="Joe Knows Electronics" x="33.02" y="51.562" size="1.778" layer="27" display="off"/>
 <attribute name="PACKAGE" value="1X10 Header Pin" x="33.02" y="51.562" size="1.778" layer="27" display="off"/>
 <attribute name="SUPPLIER_PN" value="n/a" x="33.02" y="51.562" size="1.778" layer="27" display="off"/>
@@ -3882,7 +3637,7 @@ design rules under a new name.</description>
 <attribute name="MANUFACTURER_PN" value="855055002" x="104.97" y="32.216" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="DATASHEET_LINK" value="http://www.molex.com/pdm_docs/sd/855055002_sd.pdf" x="104.97" y="32.216" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
-<element name="J2" library="cpsmv" package="1X08" value="PWMI" x="57.404" y="51.562">
+<element name="J2" library="cpsmv" package="1X08" value="PWMI" x="57.404" y="51.562" locked="yes">
 <attribute name="MANUFACTURER" value="Joe Knows Electronics" x="57.404" y="51.562" size="1.778" layer="27" display="off"/>
 <attribute name="PACKAGE" value="1X8 Header Pin" x="57.404" y="51.562" size="1.778" layer="27" display="off"/>
 <attribute name="SUPPLIER_PN" value="n/a" x="57.404" y="51.562" size="1.778" layer="27" display="off"/>
@@ -3890,7 +3645,7 @@ design rules under a new name.</description>
 <attribute name="MANUFACTURER_PN" value="n/a" x="57.404" y="51.562" size="1.778" layer="27" display="off"/>
 <attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/headers.html" x="57.404" y="51.562" size="1.778" layer="27" display="off"/>
 </element>
-<element name="J3" library="cpsmv" package="1X08" value="COMM" x="80.264" y="51.562">
+<element name="J3" library="cpsmv" package="1X08" value="COMM" x="80.264" y="51.562" locked="yes">
 <attribute name="MANUFACTURER" value="Joe Knows Electronics" x="80.264" y="51.562" size="1.778" layer="27" display="off"/>
 <attribute name="PACKAGE" value="1X8 Header Pin" x="80.264" y="51.562" size="1.778" layer="27" display="off"/>
 <attribute name="SUPPLIER_PN" value="n/a" x="80.264" y="51.562" size="1.778" layer="27" display="off"/>
@@ -3898,7 +3653,7 @@ design rules under a new name.</description>
 <attribute name="MANUFACTURER_PN" value="n/a" x="80.264" y="51.562" size="1.778" layer="27" display="off"/>
 <attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/headers.html" x="80.264" y="51.562" size="1.778" layer="27" display="off"/>
 </element>
-<element name="J4" library="cpsmv" package="1X08" value="PWR" x="39.624" y="3.302">
+<element name="J4" library="cpsmv" package="1X08" value="PWR" x="39.624" y="3.302" locked="yes">
 <attribute name="MANUFACTURER" value="Joe Knows Electronics" x="39.624" y="3.302" size="1.778" layer="27" display="off"/>
 <attribute name="PACKAGE" value="1X8 Header Pin" x="39.624" y="3.302" size="1.778" layer="27" display="off"/>
 <attribute name="SUPPLIER_PN" value="n/a" x="39.624" y="3.302" size="1.778" layer="27" display="off"/>
@@ -3906,7 +3661,7 @@ design rules under a new name.</description>
 <attribute name="MANUFACTURER_PN" value="n/a" x="39.624" y="3.302" size="1.778" layer="27" display="off"/>
 <attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/headers.html" x="39.624" y="3.302" size="1.778" layer="27" display="off"/>
 </element>
-<element name="J5" library="cpsmv" package="1X08" value="ADCL" x="62.484" y="3.302">
+<element name="J5" library="cpsmv" package="1X08" value="ADCL" x="62.484" y="3.302" locked="yes">
 <attribute name="MANUFACTURER" value="Joe Knows Electronics" x="62.484" y="3.302" size="1.778" layer="27" display="off"/>
 <attribute name="PACKAGE" value="1X8 Header Pin" x="62.484" y="3.302" size="1.778" layer="27" display="off"/>
 <attribute name="SUPPLIER_PN" value="n/a" x="62.484" y="3.302" size="1.778" layer="27" display="off"/>
@@ -3914,7 +3669,7 @@ design rules under a new name.</description>
 <attribute name="MANUFACTURER_PN" value="n/a" x="62.484" y="3.302" size="1.778" layer="27" display="off"/>
 <attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/headers.html" x="62.484" y="3.302" size="1.778" layer="27" display="off"/>
 </element>
-<element name="J6" library="cpsmv" package="1X08" value="ADCH" x="85.344" y="3.302">
+<element name="J6" library="cpsmv" package="1X08" value="ADCH" x="85.344" y="3.302" locked="yes">
 <attribute name="MANUFACTURER" value="Joe Knows Electronics" x="85.344" y="3.302" size="1.778" layer="27" display="off"/>
 <attribute name="PACKAGE" value="1X8 Header Pin" x="85.344" y="3.302" size="1.778" layer="27" display="off"/>
 <attribute name="SUPPLIER_PN" value="n/a" x="85.344" y="3.302" size="1.778" layer="27" display="off"/>
@@ -3930,7 +3685,7 @@ design rules under a new name.</description>
 <attribute name="MANUFACTURER_PN" value="776087-1" x="9.474" y="40.158" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="DATASHEET_LINK" value="http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&amp;DocNm=776087&amp;DocType=Customer+Drawing&amp;DocLang=English" x="9.474" y="40.158" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
-<element name="J8" library="cpsmv" package="2X03" value="SPI" x="65.151" y="28.702" rot="R270">
+<element name="J8" library="cpsmv" package="2X03" value="SPI" x="65.151" y="28.702" locked="yes" rot="R270">
 <attribute name="MANUFACTURER" value="Joe Knows Electronics" x="65.151" y="28.702" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="PACKAGE" value="2X03 Header Pin" x="65.151" y="28.702" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="SUPPLIER_PN" value="n/a" x="65.151" y="28.702" size="1.778" layer="27" rot="R270" display="off"/>
@@ -3969,30 +3724,6 @@ design rules under a new name.</description>
 <attribute name="SUPPLIER" value="Joe Knows Electronics" x="23.876" y="10.033" size="1.778" layer="27" display="off"/>
 <attribute name="MANUFACTURER_PN" value="n/a" x="23.876" y="10.033" size="1.778" layer="27" display="off"/>
 <attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/headers.html" x="23.876" y="10.033" size="1.778" layer="27" display="off"/>
-</element>
-<element name="JP4" library="cpsmv" package="1X01" value="SPR_A1" x="-121.539" y="225.806">
-<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-121.539" y="225.806" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="1X1 Header Pin" x="-121.539" y="225.806" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-121.539" y="225.806" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-121.539" y="225.806" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-121.539" y="225.806" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/headers.html" x="-121.539" y="225.806" size="1.778" layer="27" display="off"/>
-</element>
-<element name="JP5" library="cpsmv" package="1X01" value="SPR_A2" x="-130.429" y="225.806">
-<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-130.429" y="225.806" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="1X1 Header Pin" x="-130.429" y="225.806" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-130.429" y="225.806" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-130.429" y="225.806" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-130.429" y="225.806" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/headers.html" x="-130.429" y="225.806" size="1.778" layer="27" display="off"/>
-</element>
-<element name="JP6" library="cpsmv" package="1X01" value="SPR_A3" x="-139.319" y="225.806">
-<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-139.319" y="225.806" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="1X1 Header Pin" x="-139.319" y="225.806" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-139.319" y="225.806" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-139.319" y="225.806" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-139.319" y="225.806" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/headers.html" x="-139.319" y="225.806" size="1.778" layer="27" display="off"/>
 </element>
 <element name="Q1" library="cpsmv" package="TO92-EBC" value="PN2222A" x="60.325" y="58.928">
 <attribute name="MANUFACTURER" value="Fairchild" x="60.325" y="58.928" size="1.778" layer="27" display="off"/>
@@ -4042,13 +3773,13 @@ design rules under a new name.</description>
 <attribute name="MANUFACTURER_PN" value="PN2222ABU" x="103.787" y="68.04" size="1.778" layer="27" display="off"/>
 <attribute name="DATASHEET_LINK" value="https://www.fairchildsemi.com/datasheets/PN/PN2222A.pdf" x="103.787" y="68.04" size="1.778" layer="27" display="off"/>
 </element>
-<element name="Q7" library="cpsmv" package="TO220AB" value="ISL9V5036P3_F085" x="17.145" y="71.247" rot="R270">
-<attribute name="MANUFACTURER" value="Fairchild" x="17.145" y="71.247" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="PACKAGE" value="TO220AB" x="17.145" y="71.247" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="SUPPLIER_PN" value="ISL9V5036P3_F085-ND" x="17.145" y="71.247" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="SUPPLIER" value="Digi-Key" x="17.145" y="71.247" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="MANUFACTURER_PN" value="ISL9V5036P3_F085" x="17.145" y="71.247" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="DATASHEET_LINK" value="https://www.fairchildsemi.com/datasheets/IS/ISL9V5036P_F085.pdf" x="17.145" y="71.247" size="1.778" layer="27" rot="R270" display="off"/>
+<element name="Q7" library="cpsmv" package="TO220AB" value="ISL9V5036P3_F085" x="17.78" y="71.501" rot="R270">
+<attribute name="MANUFACTURER" value="Fairchild" x="17.78" y="71.501" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="PACKAGE" value="TO220AB" x="17.78" y="71.501" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="SUPPLIER_PN" value="ISL9V5036P3_F085-ND" x="17.78" y="71.501" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="SUPPLIER" value="Digi-Key" x="17.78" y="71.501" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MANUFACTURER_PN" value="ISL9V5036P3_F085" x="17.78" y="71.501" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="DATASHEET_LINK" value="https://www.fairchildsemi.com/datasheets/IS/ISL9V5036P_F085.pdf" x="17.78" y="71.501" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="R1" library="cpsmv" package="0207/7" value="82Ω" x="49.784" y="57.277">
 <attribute name="MANUFACTURER" value="Joe Knows Electronics" x="49.784" y="57.277" size="1.778" layer="27" display="off"/>
@@ -4057,78 +3788,6 @@ design rules under a new name.</description>
 <attribute name="SUPPLIER" value="Joe Knows Electronics" x="49.784" y="57.277" size="1.778" layer="27" display="off"/>
 <attribute name="MANUFACTURER_PN" value="n/a" x="49.784" y="57.277" size="1.778" layer="27" display="off"/>
 <attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="49.784" y="57.277" size="1.778" layer="27" display="off"/>
-</element>
-<element name="R10" library="cpsmv" package="0207/7" value="100kΩ" x="-157.48" y="350.52">
-<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-157.48" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="0207/7" x="-157.48" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-157.48" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-157.48" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-157.48" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-157.48" y="350.52" size="1.778" layer="27" display="off"/>
-</element>
-<element name="R11" library="cpsmv" package="0207/7" value="100kΩ" x="-170.18" y="350.52">
-<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-170.18" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="0207/7" x="-170.18" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-170.18" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-170.18" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-170.18" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-170.18" y="350.52" size="1.778" layer="27" display="off"/>
-</element>
-<element name="R12" library="cpsmv" package="0207/7" value="100kΩ" x="-182.88" y="350.52">
-<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-182.88" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="0207/7" x="-182.88" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-182.88" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-182.88" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-182.88" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-182.88" y="350.52" size="1.778" layer="27" display="off"/>
-</element>
-<element name="R13" library="cpsmv" package="0207/7" value="100kΩ" x="-195.58" y="350.52">
-<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-195.58" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="0207/7" x="-195.58" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-195.58" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-195.58" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-195.58" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-195.58" y="350.52" size="1.778" layer="27" display="off"/>
-</element>
-<element name="R14" library="cpsmv" package="0207/7" value="100kΩ" x="-208.28" y="350.52">
-<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-208.28" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="0207/7" x="-208.28" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-208.28" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-208.28" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-208.28" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-208.28" y="350.52" size="1.778" layer="27" display="off"/>
-</element>
-<element name="R15" library="cpsmv" package="0207/7" value="100kΩ" x="-220.98" y="350.52">
-<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-220.98" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="0207/7" x="-220.98" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-220.98" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-220.98" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-220.98" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-220.98" y="350.52" size="1.778" layer="27" display="off"/>
-</element>
-<element name="R16" library="cpsmv" package="0207/7" value="100kΩ" x="-233.68" y="350.52">
-<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-233.68" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="0207/7" x="-233.68" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-233.68" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-233.68" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-233.68" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-233.68" y="350.52" size="1.778" layer="27" display="off"/>
-</element>
-<element name="R17" library="cpsmv" package="0207/7" value="100kΩ" x="-246.38" y="350.52">
-<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-246.38" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="0207/7" x="-246.38" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-246.38" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-246.38" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-246.38" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-246.38" y="350.52" size="1.778" layer="27" display="off"/>
-</element>
-<element name="R2" library="cpsmv" package="0207/7" value="100kΩ" x="-55.88" y="350.52">
-<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-55.88" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="0207/7" x="-55.88" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-55.88" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-55.88" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-55.88" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-55.88" y="350.52" size="1.778" layer="27" display="off"/>
 </element>
 <element name="R22" library="cpsmv" package="0207/7" value="1.2kΩ" x="-309.88" y="350.52">
 <attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-309.88" y="350.52" size="1.778" layer="27" display="off"/>
@@ -4194,14 +3853,6 @@ design rules under a new name.</description>
 <attribute name="MANUFACTURER_PN" value="n/a" x="-98.679" y="253.746" size="1.778" layer="27" display="off"/>
 <attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-98.679" y="253.746" size="1.778" layer="27" display="off"/>
 </element>
-<element name="R3" library="cpsmv" package="0207/7" value="100kΩ" x="-68.58" y="350.52">
-<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-68.58" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="0207/7" x="-68.58" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-68.58" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-68.58" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-68.58" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-68.58" y="350.52" size="1.778" layer="27" display="off"/>
-</element>
 <element name="R30" library="cpsmv" package="0207/7" value="150Ω" x="-111.379" y="253.746">
 <attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-111.379" y="253.746" size="1.778" layer="27" display="off"/>
 <attribute name="PACKAGE" value="0207/7" x="-111.379" y="253.746" size="1.778" layer="27" display="off"/>
@@ -4258,118 +3909,6 @@ design rules under a new name.</description>
 <attribute name="MANUFACTURER_PN" value="n/a" x="-27.432" y="304.419" size="1.778" layer="27" display="off"/>
 <attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-27.432" y="304.419" size="1.778" layer="27" display="off"/>
 </element>
-<element name="R37" library="cpsmv" package="0207/7" value="0Ω" x="-174.879" y="253.746">
-<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-174.879" y="253.746" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="0207/7" x="-174.879" y="253.746" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-174.879" y="253.746" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-174.879" y="253.746" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-174.879" y="253.746" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-174.879" y="253.746" size="1.778" layer="27" display="off"/>
-</element>
-<element name="R38" library="cpsmv" package="0207/7" value="0Ω" x="-187.579" y="253.746">
-<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-187.579" y="253.746" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="0207/7" x="-187.579" y="253.746" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-187.579" y="253.746" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-187.579" y="253.746" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-187.579" y="253.746" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-187.579" y="253.746" size="1.778" layer="27" display="off"/>
-</element>
-<element name="R39" library="cpsmv" package="0207/7" value="0Ω" x="-200.279" y="253.746">
-<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-200.279" y="253.746" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="0207/7" x="-200.279" y="253.746" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-200.279" y="253.746" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-200.279" y="253.746" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-200.279" y="253.746" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-200.279" y="253.746" size="1.778" layer="27" display="off"/>
-</element>
-<element name="R4" library="cpsmv" package="0207/7" value="100kΩ" x="-81.28" y="350.52">
-<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-81.28" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="0207/7" x="-81.28" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-81.28" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-81.28" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-81.28" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-81.28" y="350.52" size="1.778" layer="27" display="off"/>
-</element>
-<element name="R40" library="cpsmv" package="0207/7" value="0Ω" x="-212.979" y="253.746">
-<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-212.979" y="253.746" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="0207/7" x="-212.979" y="253.746" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-212.979" y="253.746" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-212.979" y="253.746" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-212.979" y="253.746" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-212.979" y="253.746" size="1.778" layer="27" display="off"/>
-</element>
-<element name="R41" library="cpsmv" package="0207/7" value="0Ω" x="-225.679" y="253.746">
-<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-225.679" y="253.746" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="0207/7" x="-225.679" y="253.746" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-225.679" y="253.746" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-225.679" y="253.746" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-225.679" y="253.746" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-225.679" y="253.746" size="1.778" layer="27" display="off"/>
-</element>
-<element name="R42" library="cpsmv" package="0207/7" value="0Ω" x="-238.379" y="253.746">
-<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-238.379" y="253.746" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="0207/7" x="-238.379" y="253.746" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-238.379" y="253.746" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-238.379" y="253.746" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-238.379" y="253.746" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-238.379" y="253.746" size="1.778" layer="27" display="off"/>
-</element>
-<element name="R43" library="cpsmv" package="0207/7" value="0Ω" x="-251.079" y="253.746">
-<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-251.079" y="253.746" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="0207/7" x="-251.079" y="253.746" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-251.079" y="253.746" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-251.079" y="253.746" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-251.079" y="253.746" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-251.079" y="253.746" size="1.778" layer="27" display="off"/>
-</element>
-<element name="R44" library="cpsmv" package="0207/7" value="0Ω" x="-263.779" y="253.746">
-<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-263.779" y="253.746" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="0207/7" x="-263.779" y="253.746" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-263.779" y="253.746" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-263.779" y="253.746" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-263.779" y="253.746" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-263.779" y="253.746" size="1.778" layer="27" display="off"/>
-</element>
-<element name="R5" library="cpsmv" package="0207/7" value="100kΩ" x="-93.98" y="350.52">
-<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-93.98" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="0207/7" x="-93.98" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-93.98" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-93.98" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-93.98" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-93.98" y="350.52" size="1.778" layer="27" display="off"/>
-</element>
-<element name="R6" library="cpsmv" package="0207/7" value="100kΩ" x="-106.68" y="350.52">
-<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-106.68" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="0207/7" x="-106.68" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-106.68" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-106.68" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-106.68" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-106.68" y="350.52" size="1.778" layer="27" display="off"/>
-</element>
-<element name="R7" library="cpsmv" package="0207/7" value="100kΩ" x="-119.38" y="350.52">
-<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-119.38" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="0207/7" x="-119.38" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-119.38" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-119.38" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-119.38" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-119.38" y="350.52" size="1.778" layer="27" display="off"/>
-</element>
-<element name="R8" library="cpsmv" package="0207/7" value="100kΩ" x="-132.08" y="350.52">
-<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-132.08" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="0207/7" x="-132.08" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-132.08" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-132.08" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-132.08" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-132.08" y="350.52" size="1.778" layer="27" display="off"/>
-</element>
-<element name="R9" library="cpsmv" package="0207/7" value="100kΩ" x="-144.78" y="350.52">
-<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-144.78" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="0207/7" x="-144.78" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="-144.78" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-144.78" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="n/a" x="-144.78" y="350.52" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-144.78" y="350.52" size="1.778" layer="27" display="off"/>
-</element>
 <element name="SW1" library="cpsmv" package="204-211ST" value="CTS-204-211ST" x="-4.572" y="327.152">
 <attribute name="MANUFACTURER" value="CTS" x="-4.572" y="327.152" size="1.778" layer="27" display="off"/>
 <attribute name="PACKAGE" value="SMD-4, Gull-Wing" x="-4.572" y="327.152" size="1.778" layer="27" display="off"/>
@@ -4383,30 +3922,12 @@ design rules under a new name.</description>
 <element name="TP11" library="cpsmv" package="TP-P1-20" value="MISO_3V3" x="63.754" y="36.449"/>
 <element name="TP12" library="cpsmv" package="TP-P1-20" value="SCK_3V3" x="78.74" y="36.576"/>
 <element name="TP13" library="cpsmv" package="TP-P1-20" value="CS1_3V3" x="-326.009" y="214.757"/>
-<element name="TP14" library="cpsmv" package="TP-P1-20" value="CS3_3V3" x="-373.38" y="286.512"/>
-<element name="TP15" library="cpsmv" package="TP-P1-20" value="CS2_3V3" x="-373.634" y="295.656"/>
 <element name="TP16" library="cpsmv" package="TP-P1-20" value="FUEL" x="41.275" y="57.023"/>
 <element name="TP17" library="cpsmv" package="TP-P1-20" value="FUEL_E" x="62.23" y="66.548"/>
 <element name="TP18" library="cpsmv" package="TP-P1-20" value="SPARK" x="36.449" y="56.896"/>
 <element name="TP19" library="cpsmv" package="TP-P1-20" value="SPARK_E" x="25.019" y="57.15"/>
 <element name="TP2" library="cpsmv" package="TP-P1-20" value="+5V" x="3.175" y="7.366" rot="R90"/>
-<element name="TP20" library="cpsmv" package="TP-P1-20" value="MAP" x="19.812" y="20.955"/>
-<element name="TP21" library="cpsmv" package="TP-P1-20" value="MAP_FIL" x="24.003" y="20.955"/>
-<element name="TP22" library="cpsmv" package="TP-P1-20" value="TPS" x="19.685" y="27.178"/>
-<element name="TP23" library="cpsmv" package="TP-P1-20" value="TPS_FIL" x="23.876" y="27.178"/>
-<element name="TP24" library="cpsmv" package="TP-P1-20" value="IAT" x="20.066" y="40.259"/>
-<element name="TP25" library="cpsmv" package="TP-P1-20" value="IAT_FIL" x="23.749" y="40.259"/>
-<element name="TP26" library="cpsmv" package="TP-P1-20" value="ECT" x="19.812" y="33.655"/>
-<element name="TP27" library="cpsmv" package="TP-P1-20" value="ECT_FIL" x="23.749" y="33.655"/>
-<element name="TP28" library="cpsmv" package="TP-P1-20" value="O2" x="-46.99" y="345.44"/>
-<element name="TP29" library="cpsmv" package="TP-P1-20" value="O2_FIL" x="-59.69" y="345.44"/>
 <element name="TP3" library="cpsmv" package="TP-P1-20" value="+3V3" x="9.652" y="3.683" rot="R90"/>
-<element name="TP30" library="cpsmv" package="TP-P1-20" value="SPR_A1" x="-72.39" y="345.44"/>
-<element name="TP31" library="cpsmv" package="TP-P1-20" value="SPR_A1_FIL" x="-85.09" y="345.44"/>
-<element name="TP32" library="cpsmv" package="TP-P1-20" value="SPR_A2" x="-97.79" y="345.44"/>
-<element name="TP33" library="cpsmv" package="TP-P1-20" value="SPR_A2_FIL" x="-110.49" y="345.44"/>
-<element name="TP34" library="cpsmv" package="TP-P1-20" value="SPR_A3" x="-123.19" y="345.44"/>
-<element name="TP35" library="cpsmv" package="TP-P1-20" value="SPR_A3_FIL" x="-135.89" y="345.44"/>
 <element name="TP36" library="cpsmv" package="TP-P1-20" value="MOSI_5V" x="-148.59" y="345.44"/>
 <element name="TP37" library="cpsmv" package="TP-P1-20" value="SCK_5V" x="-161.29" y="345.44"/>
 <element name="TP38" library="cpsmv" package="TP-P1-20" value="MISO_5V" x="-173.99" y="345.44"/>
@@ -4421,8 +3942,6 @@ design rules under a new name.</description>
 <element name="TP5" library="cpsmv" package="TP-P1-20" value="GND" x="9.525" y="11.176" rot="R90"/>
 <element name="TP50" library="cpsmv" package="TP-P1-20" value="REV_LIMIT_LED" x="-326.39" y="345.44"/>
 <element name="TP51" library="cpsmv" package="TP-P1-20" value="KILL_SW_LED" x="-339.09" y="345.44"/>
-<element name="TP52" library="cpsmv" package="TP-P1-20" value="CS2_5V" x="-350.52" y="315.214"/>
-<element name="TP53" library="cpsmv" package="TP-P1-20" value="CS3_5V" x="-354.711" y="284.226"/>
 <element name="TP6" library="cpsmv" package="TP-P1-20" value="GND" x="21.463" y="57.15"/>
 <element name="TP7" library="cpsmv" package="TP-P1-20" value="AGND" x="9.652" y="7.62" rot="R90"/>
 <element name="TP8" library="cpsmv" package="TP-P1-20" value="AGND" x="15.875" y="14.351" rot="R90"/>
@@ -4443,62 +3962,542 @@ design rules under a new name.</description>
 <attribute name="MANUFACTURER_PN" value="MCP2551-I/SN" x="-13.081" y="269.494" size="1.778" layer="27" display="off"/>
 <attribute name="DATASHEET_LINK" value="http://ww1.microchip.com/downloads/en/DeviceDoc/21667f.pdf" x="-13.081" y="269.494" size="1.778" layer="27" display="off"/>
 </element>
-<element name="U2" library="cpsmv" package="SOIC127P600X175-14N" value="TXS0104E" x="-355.346" y="295.529">
-<attribute name="MANUFACTURER" value="Texas Instruments" x="-355.346" y="295.529" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="SOIC-14" x="-355.346" y="295.529" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="296-20696-1-ND" x="-355.346" y="295.529" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Digi-Key" x="-355.346" y="295.529" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="TXS0104EDR" x="-355.346" y="295.529" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.ti.com/lit/ds/symlink/txs0104e.pdf" x="-355.346" y="295.529" size="1.778" layer="27" display="off"/>
-</element>
-<element name="U3" library="cpsmv" package="SOIC127P600X175-16N" value="MCP3304" x="-187.96" y="325.12">
-<attribute name="MANUFACTURER" value="Microchip" x="-187.96" y="325.12" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="SOIC-16" x="-187.96" y="325.12" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="MCP3304-CI/SL-ND" x="-187.96" y="325.12" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Digi-Key" x="-187.96" y="325.12" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="MCP3304-CI/SL" x="-187.96" y="325.12" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://ww1.microchip.com/downloads/en/DeviceDoc/21697F.pdf" x="-187.96" y="325.12" size="1.778" layer="27" display="off"/>
-</element>
-<element name="U4" library="cpsmv" package="SOIC127P600X175-14N" value="MCP6024" x="-273.05" y="321.31">
-<attribute name="MANUFACTURER" value="Microchip" x="-273.05" y="321.31" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="SOIC-14" x="-273.05" y="321.31" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="MCP6024-E/SL-ND" x="-273.05" y="321.31" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Digi-Key" x="-273.05" y="321.31" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="MCP6024-E/SL" x="-273.05" y="321.31" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://ww1.microchip.com/downloads/en/DeviceDoc/21685d.pdf" x="-273.05" y="321.31" size="1.778" layer="27" display="off"/>
-</element>
-<element name="U5" library="cpsmv" package="SOIC127P600X175-14N" value="MCP6024" x="-281.94" y="321.31">
-<attribute name="MANUFACTURER" value="Microchip" x="-281.94" y="321.31" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="SOIC-14" x="-281.94" y="321.31" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="MCP6024-E/SL-ND" x="-281.94" y="321.31" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Digi-Key" x="-281.94" y="321.31" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PN" value="MCP6024-E/SL" x="-281.94" y="321.31" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://ww1.microchip.com/downloads/en/DeviceDoc/21685d.pdf" x="-281.94" y="321.31" size="1.778" layer="27" display="off"/>
-</element>
 <element name="U$2" library="cpsmv" package="CPSMV_FRAME" value="" x="-119.761" y="-90.424"/>
-<element name="R20" library="cpsmv" package="0207/7" value="220Ω" x="80.518" y="321.691">
-<attribute name="MANUFACTURER_PN" value="n/a" x="80.518" y="321.691" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="0207/7" x="80.518" y="321.691" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="80.518" y="321.691" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe Knows Electronics" x="80.518" y="321.691" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="80.518" y="321.691" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="80.518" y="321.691" size="1.778" layer="27" display="off"/>
+<element name="U5" library="cpsmv" package="SOP08" value="LM358" x="-374.396" y="-95.504">
+<attribute name="DATASHEET_LINK" value="http://www.ti.com/lit/ds/symlink/lm158-n.pdf" x="-374.396" y="-95.504" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Texas Instruments" x="-374.396" y="-95.504" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="LM3358" x="-374.396" y="-95.504" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="296-1014-2-ND" x="-374.396" y="-95.504" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="8-SOIC" x="-374.396" y="-95.504" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Digi-Key" x="-374.396" y="-95.504" size="1.778" layer="27" display="off"/>
 </element>
-<element name="R21" library="cpsmv" package="0207/7" value="390Ω" x="80.518" y="317.373">
-<attribute name="MANUFACTURER_PN" value="n/a" x="80.518" y="317.373" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="0207/7" x="80.518" y="317.373" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="80.518" y="317.373" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe Knows Electronics" x="80.518" y="317.373" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="80.518" y="317.373" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="80.518" y="317.373" size="1.778" layer="27" display="off"/>
+<element name="C3" library="cpsmv" package="C050-025X075" value="10nF" x="-374.904" y="-110.744">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/capacitor-kit.html" x="-374.904" y="-110.744" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-374.904" y="-110.744" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="C050-025X075" x="-374.904" y="-110.744" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="joe Knows Electronics" x="-374.904" y="-110.744" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe knows Electronics" x="-374.904" y="-110.744" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-374.904" y="-110.744" size="1.778" layer="27" display="off"/>
 </element>
-<element name="C25" library="cpsmv" package="C050-025X075" value="68nF" x="78.994" y="312.674">
-<attribute name="MANUFACTURER_PN" value="n/a" x="78.994" y="312.674" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="C050-025X075" x="78.994" y="312.674" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER" value="joe Knows Electronics" x="78.994" y="312.674" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Joe knows Electronics" x="78.994" y="312.674" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="n/a" x="78.994" y="312.674" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/capacitor-kit.html" x="78.994" y="312.674" size="1.778" layer="27" display="off"/>
+<element name="R2" library="cpsmv" package="0207/7" value="180kΩ" x="-373.38" y="-115.57">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-115.57" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-115.57" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-115.57" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-115.57" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-115.57" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-115.57" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R3" library="cpsmv" package="0207/7" value="120kΩ" x="-373.38" y="-119.888">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-119.888" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-119.888" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-119.888" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-119.888" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-119.888" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-119.888" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R4" library="cpsmv" package="0207/7" value="68kΩ" x="-373.38" y="-124.206">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-124.206" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-124.206" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-124.206" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-124.206" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-124.206" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-124.206" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R5" library="cpsmv" package="0207/7" value="3.9kΩ" x="-373.38" y="-128.524">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-128.524" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-128.524" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-128.524" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-128.524" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-128.524" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-128.524" size="1.778" layer="27" display="off"/>
+</element>
+<element name="C4" library="cpsmv" package="C050-025X075" value="47nF" x="-374.904" y="-150.495">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/capacitor-kit.html" x="-374.904" y="-150.495" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-374.904" y="-150.495" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="C050-025X075" x="-374.904" y="-150.495" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="joe Knows Electronics" x="-374.904" y="-150.495" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe knows Electronics" x="-374.904" y="-150.495" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-374.904" y="-150.495" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R6" library="cpsmv" package="0207/7" value="39kΩ" x="-373.38" y="-155.321">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-155.321" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-155.321" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-155.321" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-155.321" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-155.321" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-155.321" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R7" library="cpsmv" package="0207/7" value="330kΩ" x="-373.38" y="-159.639">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-159.639" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-159.639" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-159.639" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-159.639" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-159.639" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-159.639" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R8" library="cpsmv" package="0207/7" value="330kΩ" x="-373.38" y="-163.957">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-163.957" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-163.957" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-163.957" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-163.957" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-163.957" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-163.957" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R9" library="cpsmv" package="0207/7" value="120kΩ" x="-373.38" y="-168.275">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-168.275" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-168.275" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-168.275" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-168.275" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-168.275" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-168.275" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R10" library="cpsmv" package="0207/7" value="56kΩ" x="-373.38" y="-172.593">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-172.593" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-172.593" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-172.593" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-172.593" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-172.593" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-172.593" size="1.778" layer="27" display="off"/>
+</element>
+<element name="U2" library="cpsmv" package="SOP08" value="LM358" x="-374.396" y="-178.181">
+<attribute name="DATASHEET_LINK" value="http://www.ti.com/lit/ds/symlink/lm158-n.pdf" x="-374.396" y="-178.181" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="LM3358" x="-374.396" y="-178.181" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="8-SOIC" x="-374.396" y="-178.181" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Texas Instruments" x="-374.396" y="-178.181" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Digi-Key" x="-374.396" y="-178.181" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="296-1014-2-ND" x="-374.396" y="-178.181" size="1.778" layer="27" display="off"/>
+</element>
+<element name="C5" library="cpsmv" package="C050-025X075" value="10nF" x="-365.125" y="-177.292">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/capacitor-kit.html" x="-374.904" y="-185.42" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-374.904" y="-185.42" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="C050-025X075" x="-374.904" y="-185.42" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="joe Knows Electronics" x="-374.904" y="-185.42" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe knows Electronics" x="-374.904" y="-185.42" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-374.904" y="-185.42" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R11" library="cpsmv" package="0207/7" value="180kΩ" x="-364.871" y="-185.039">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-190.246" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-190.246" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-190.246" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-190.246" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-190.246" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-190.246" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R12" library="cpsmv" package="0207/7" value="120kΩ" x="-373.38" y="-190.246">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-194.564" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-194.564" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-194.564" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-194.564" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-194.564" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-194.564" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R13" library="cpsmv" package="0207/7" value="68kΩ" x="-361.569" y="-190.246">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-198.882" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-198.882" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-198.882" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-198.882" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-198.882" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-198.882" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R14" library="cpsmv" package="0207/7" value="3.9kΩ" x="-373.38" y="-194.564">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-203.2" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-203.2" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-203.2" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-203.2" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-203.2" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-203.2" size="1.778" layer="27" display="off"/>
+</element>
+<element name="C6" library="cpsmv" package="C050-025X075" value="47nF" x="-374.904" y="-185.42">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/capacitor-kit.html" x="-374.904" y="-207.899" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-374.904" y="-207.899" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="C050-025X075" x="-374.904" y="-207.899" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="joe Knows Electronics" x="-374.904" y="-207.899" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe knows Electronics" x="-374.904" y="-207.899" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-374.904" y="-207.899" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R15" library="cpsmv" package="0207/7" value="39kΩ" x="-361.569" y="-194.564">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-212.725" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-212.725" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-212.725" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-212.725" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-212.725" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-212.725" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R16" library="cpsmv" package="0207/7" value="330kΩ" x="-373.38" y="-198.882">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-217.043" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-217.043" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-217.043" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-217.043" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-217.043" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-217.043" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R17" library="cpsmv" package="0207/7" value="330kΩ" x="-361.569" y="-198.882">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-221.361" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-221.361" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-221.361" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-221.361" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-221.361" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-221.361" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R18" library="cpsmv" package="0207/7" value="120kΩ" x="-373.38" y="-203.2">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-225.679" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-225.679" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-225.679" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-225.679" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-225.679" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-225.679" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R19" library="cpsmv" package="0207/7" value="56kΩ" x="-361.569" y="-203.2">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-229.997" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-229.997" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-229.997" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-229.997" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-229.997" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-229.997" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R64" library="cpsmv" package="0207/7" value="220Ω" x="-373.38" y="-304.546">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-299.339" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-299.339" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-299.339" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-299.339" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-299.339" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-299.339" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R65" library="cpsmv" package="0207/7" value="390Ω" x="-373.38" y="-308.864">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-303.657" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-303.657" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-303.657" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-303.657" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-303.657" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-303.657" size="1.778" layer="27" display="off"/>
+</element>
+<element name="C13" library="cpsmv" package="C050-025X075" value="6.8nF" x="-374.904" y="-299.72">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/capacitor-kit.html" x="-374.904" y="-308.356" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-374.904" y="-308.356" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="C050-025X075" x="-374.904" y="-308.356" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="joe Knows Electronics" x="-374.904" y="-308.356" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe knows Electronics" x="-374.904" y="-308.356" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-374.904" y="-308.356" size="1.778" layer="27" display="off"/>
+</element>
+<element name="U7" library="cpsmv" package="SOP08" value="LM358" x="-374.396" y="-314.452">
+<attribute name="DATASHEET_LINK" value="http://www.ti.com/lit/ds/symlink/lm158-n.pdf" x="-374.396" y="-314.452" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="LM3358" x="-374.396" y="-314.452" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="8-SOIC" x="-374.396" y="-314.452" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Texas Instruments" x="-374.396" y="-314.452" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Digi-Key" x="-374.396" y="-314.452" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="296-1014-2-ND" x="-374.396" y="-314.452" size="1.778" layer="27" display="off"/>
+</element>
+<element name="C14" library="cpsmv" package="C050-025X075" value="10nF" x="-345.567" y="-313.563">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/capacitor-kit.html" x="-374.904" y="-321.691" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-374.904" y="-321.691" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="C050-025X075" x="-374.904" y="-321.691" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="joe Knows Electronics" x="-374.904" y="-321.691" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe knows Electronics" x="-374.904" y="-321.691" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-374.904" y="-321.691" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R20" library="cpsmv" package="0207/7" value="180kΩ" x="-373.38" y="-326.517">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-326.517" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-326.517" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-326.517" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-326.517" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-326.517" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-326.517" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R21" library="cpsmv" package="0207/7" value="120kΩ" x="-361.569" y="-326.517">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-330.835" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-330.835" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-330.835" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-330.835" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-330.835" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-330.835" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R66" library="cpsmv" package="0207/7" value="68kΩ" x="-349.758" y="-326.517">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-335.153" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-335.153" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-335.153" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-335.153" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-335.153" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-335.153" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R67" library="cpsmv" package="0207/7" value="3.9kΩ" x="-373.38" y="-330.835">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-339.471" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-339.471" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-339.471" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-339.471" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-339.471" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-339.471" size="1.778" layer="27" display="off"/>
+</element>
+<element name="C15" library="cpsmv" package="C050-025X075" value="330pF" x="-374.904" y="-321.691">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/capacitor-kit.html" x="-374.904" y="-344.17" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-374.904" y="-344.17" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="C050-025X075" x="-374.904" y="-344.17" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="joe Knows Electronics" x="-374.904" y="-344.17" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe knows Electronics" x="-374.904" y="-344.17" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-374.904" y="-344.17" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R68" library="cpsmv" package="0207/7" value="39kΩ" x="-361.569" y="-330.835">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-348.996" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-348.996" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-348.996" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-348.996" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-348.996" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-348.996" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R69" library="cpsmv" package="0207/7" value="82kΩ" x="-349.758" y="-330.835">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-353.314" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-353.314" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-353.314" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-353.314" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-353.314" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-353.314" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R70" library="cpsmv" package="0207/7" value="82kΩ" x="-373.38" y="-335.153">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-357.632" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-357.632" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-357.632" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-357.632" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-357.632" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-357.632" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R71" library="cpsmv" package="0207/7" value="120kΩ" x="-361.569" y="-335.153">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-361.95" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-361.95" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-361.95" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-361.95" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-361.95" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-361.95" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R72" library="cpsmv" package="0207/7" value="56kΩ" x="-349.758" y="-335.153">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-366.268" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-366.268" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-366.268" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-366.268" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-366.268" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-366.268" size="1.778" layer="27" display="off"/>
+</element>
+<element name="U8" library="cpsmv" package="SOP08" value="LM358" x="-364.617" y="-314.452">
+<attribute name="DATASHEET_LINK" value="http://www.ti.com/lit/ds/symlink/lm158-n.pdf" x="-374.396" y="-371.856" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="LM3358" x="-374.396" y="-371.856" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="8-SOIC" x="-374.396" y="-371.856" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Texas Instruments" x="-374.396" y="-371.856" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Digi-Key" x="-374.396" y="-371.856" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="296-1014-2-ND" x="-374.396" y="-371.856" size="1.778" layer="27" display="off"/>
+</element>
+<element name="C16" library="cpsmv" package="C050-025X075" value="10nF" x="-366.395" y="-321.691">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/capacitor-kit.html" x="-374.904" y="-379.095" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-374.904" y="-379.095" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="C050-025X075" x="-374.904" y="-379.095" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="joe Knows Electronics" x="-374.904" y="-379.095" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe knows Electronics" x="-374.904" y="-379.095" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-374.904" y="-379.095" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R73" library="cpsmv" package="0207/7" value="180kΩ" x="-373.38" y="-339.471">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-383.921" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-383.921" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-383.921" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-383.921" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-383.921" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-383.921" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R74" library="cpsmv" package="0207/7" value="120kΩ" x="-361.569" y="-339.471">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-388.239" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-388.239" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-388.239" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-388.239" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-388.239" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-388.239" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R75" library="cpsmv" package="0207/7" value="68kΩ" x="-349.758" y="-339.471">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-392.557" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-392.557" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-392.557" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-392.557" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-392.557" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-392.557" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R76" library="cpsmv" package="0207/7" value="3.9kΩ" x="-373.38" y="-343.789">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-396.875" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-396.875" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-396.875" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-396.875" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-396.875" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-396.875" size="1.778" layer="27" display="off"/>
+</element>
+<element name="C17" library="cpsmv" package="C050-025X075" value="330pF" x="-357.886" y="-321.691">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/capacitor-kit.html" x="-374.904" y="-401.574" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-374.904" y="-401.574" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="C050-025X075" x="-374.904" y="-401.574" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="joe Knows Electronics" x="-374.904" y="-401.574" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe knows Electronics" x="-374.904" y="-401.574" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-374.904" y="-401.574" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R77" library="cpsmv" package="0207/7" value="39kΩ" x="-361.569" y="-343.789">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-406.4" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-406.4" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-406.4" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-406.4" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-406.4" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-406.4" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R78" library="cpsmv" package="0207/7" value="82kΩ" x="-349.758" y="-343.789">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-410.718" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-410.718" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-410.718" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-410.718" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-410.718" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-410.718" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R79" library="cpsmv" package="0207/7" value="82kΩ" x="-373.38" y="-348.107">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-415.036" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-415.036" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-415.036" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-415.036" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-415.036" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-415.036" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R80" library="cpsmv" package="0207/7" value="120kΩ" x="-361.569" y="-348.107">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-419.354" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-419.354" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-419.354" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-419.354" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-419.354" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-419.354" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R81" library="cpsmv" package="0207/7" value="56kΩ" x="-349.758" y="-348.107">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-423.672" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-423.672" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-423.672" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-423.672" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-423.672" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-423.672" size="1.778" layer="27" display="off"/>
+</element>
+<element name="U9" library="cpsmv" package="SOP08" value="LM358" x="-354.838" y="-314.452">
+<attribute name="DATASHEET_LINK" value="http://www.ti.com/lit/ds/symlink/lm158-n.pdf" x="-374.396" y="-429.26" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="LM3358" x="-374.396" y="-429.26" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="8-SOIC" x="-374.396" y="-429.26" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Texas Instruments" x="-374.396" y="-429.26" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Digi-Key" x="-374.396" y="-429.26" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="296-1014-2-ND" x="-374.396" y="-429.26" size="1.778" layer="27" display="off"/>
+</element>
+<element name="C18" library="cpsmv" package="C050-025X075" value="10nF" x="-349.377" y="-321.691">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/capacitor-kit.html" x="-374.904" y="-436.499" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-374.904" y="-436.499" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="C050-025X075" x="-374.904" y="-436.499" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="joe Knows Electronics" x="-374.904" y="-436.499" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe knows Electronics" x="-374.904" y="-436.499" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-374.904" y="-436.499" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R82" library="cpsmv" package="0207/7" value="180kΩ" x="-373.38" y="-352.425">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-441.325" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-441.325" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-441.325" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-441.325" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-441.325" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-441.325" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R83" library="cpsmv" package="0207/7" value="120kΩ" x="-361.569" y="-352.425">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-445.643" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-445.643" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-445.643" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-445.643" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-445.643" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-445.643" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R84" library="cpsmv" package="0207/7" value="68kΩ" x="-349.758" y="-352.425">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-449.961" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-449.961" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-449.961" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-449.961" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-449.961" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-449.961" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R85" library="cpsmv" package="0207/7" value="3.9kΩ" x="-373.38" y="-356.743">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-454.279" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-454.279" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-454.279" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-454.279" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-454.279" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-454.279" size="1.778" layer="27" display="off"/>
+</element>
+<element name="C19" library="cpsmv" package="C050-025X075" value="330pF" x="-340.868" y="-321.691">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/capacitor-kit.html" x="-374.904" y="-458.978" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-374.904" y="-458.978" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="C050-025X075" x="-374.904" y="-458.978" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="joe Knows Electronics" x="-374.904" y="-458.978" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe knows Electronics" x="-374.904" y="-458.978" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-374.904" y="-458.978" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R86" library="cpsmv" package="0207/7" value="39kΩ" x="-361.569" y="-356.743">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-463.804" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-463.804" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-463.804" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-463.804" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-463.804" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-463.804" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R87" library="cpsmv" package="0207/7" value="82kΩ" x="-349.758" y="-356.743">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-468.122" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-468.122" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-468.122" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-468.122" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-468.122" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-468.122" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R88" library="cpsmv" package="0207/7" value="82kΩ" x="-373.38" y="-361.061">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-472.44" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-472.44" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-472.44" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-472.44" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-472.44" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-472.44" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R89" library="cpsmv" package="0207/7" value="120kΩ" x="-361.569" y="-361.061">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-476.758" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-476.758" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-476.758" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-476.758" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-476.758" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-476.758" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R90" library="cpsmv" package="0207/7" value="56kΩ" x="-349.758" y="-361.061">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-481.076" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-481.076" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-481.076" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-481.076" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-481.076" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-481.076" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R37" library="cpsmv" package="0207/7" value="680Ω" x="-373.38" y="-365.379">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-365.379" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-365.379" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-365.379" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-365.379" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-365.379" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-365.379" size="1.778" layer="27" display="off"/>
+</element>
+<element name="R38" library="cpsmv" package="0207/7" value="680Ω" x="-373.38" y="-369.697">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/metal-film-resistor-kit.html" x="-373.38" y="-369.697" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-373.38" y="-369.697" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0207/7" x="-373.38" y="-369.697" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Joe Knows Electronics" x="-373.38" y="-369.697" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe Knows Electronics" x="-373.38" y="-369.697" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-373.38" y="-369.697" size="1.778" layer="27" display="off"/>
+</element>
+<element name="C7" library="cpsmv" package="C050-025X075" value="330pF" x="-374.904" y="-374.396">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/capacitor-kit.html" x="-374.904" y="-374.396" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-374.904" y="-374.396" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="C050-025X075" x="-374.904" y="-374.396" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="joe Knows Electronics" x="-374.904" y="-374.396" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe knows Electronics" x="-374.904" y="-374.396" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-374.904" y="-374.396" size="1.778" layer="27" display="off"/>
+</element>
+<element name="C8" library="cpsmv" package="C050-025X075" value="330pF" x="-374.904" y="-379.603">
+<attribute name="DATASHEET_LINK" value="http://www.joeknowselectronics.com/index.php/products/component-kits/capacitor-kit.html" x="-374.904" y="-379.603" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PN" value="n/a" x="-374.904" y="-379.603" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="C050-025X075" x="-374.904" y="-379.603" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="joe Knows Electronics" x="-374.904" y="-379.603" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Joe knows Electronics" x="-374.904" y="-379.603" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="n/a" x="-374.904" y="-379.603" size="1.778" layer="27" display="off"/>
 </element>
 </elements>
 <signals>
@@ -4508,13 +4507,9 @@ design rules under a new name.</description>
 <contactref element="U1" pad="1"/>
 <contactref element="U1" pad="8"/>
 <contactref element="C2" pad="1"/>
-<contactref element="C4" pad="1"/>
-<contactref element="U2" pad="1"/>
 <contactref element="TP3" pad="TP"/>
-<wire x1="-360.1466" y1="303.149" x2="-260.0706" y2="328.93" width="0" layer="19" extent="1-1"/>
 <wire x1="-255.27" y1="321.31" x2="-260.0706" y2="328.93" width="0" layer="19" extent="1-1"/>
-<wire x1="-234.569" y1="247.396" x2="-255.27" y2="321.31" width="0" layer="19" extent="1-1"/>
-<wire x1="-216.789" y1="247.396" x2="-234.569" y2="247.396" width="0" layer="19" extent="1-1"/>
+<wire x1="-216.789" y1="247.396" x2="-255.27" y2="321.31" width="0" layer="19" extent="1-1"/>
 <wire x1="9.652" y1="3.683" x2="-216.789" y2="247.396" width="0" layer="19" extent="1-1"/>
 <wire x1="33.274" y1="3.302" x2="9.652" y2="3.683" width="0" layer="19" extent="1-1"/>
 <wire x1="38.354" y1="3.302" x2="33.274" y2="3.302" width="0" layer="19" extent="1-1"/>
@@ -4524,18 +4519,8 @@ design rules under a new name.</description>
 <contactref element="J8" pad="2"/>
 <contactref element="U1" pad="14"/>
 <contactref element="C1" pad="1"/>
-<contactref element="C3" pad="1"/>
-<contactref element="U2" pad="14"/>
 <contactref element="TP2" pad="TP"/>
 <contactref element="Q1" pad="C"/>
-<contactref element="U4" pad="4"/>
-<contactref element="C5" pad="1"/>
-<contactref element="U5" pad="4"/>
-<contactref element="C14" pad="1"/>
-<contactref element="C23" pad="1"/>
-<contactref element="U3" pad="15"/>
-<contactref element="U3" pad="16"/>
-<contactref element="C24" pad="1"/>
 <contactref element="C33" pad="1"/>
 <contactref element="U10" pad="3"/>
 <contactref element="R23" pad="1"/>
@@ -4543,30 +4528,64 @@ design rules under a new name.</description>
 <contactref element="R26" pad="1"/>
 <contactref element="R28" pad="1"/>
 <contactref element="R30" pad="1"/>
-<contactref element="R20" pad="2"/>
+<contactref element="C3" pad="1"/>
+<contactref element="U5" pad="8"/>
+<contactref element="R4" pad="1"/>
+<contactref element="R9" pad="1"/>
+<contactref element="C5" pad="1"/>
+<contactref element="U2" pad="8"/>
+<contactref element="R13" pad="1"/>
+<contactref element="R18" pad="1"/>
+<contactref element="R64" pad="2"/>
+<contactref element="C14" pad="1"/>
+<contactref element="U7" pad="8"/>
+<contactref element="R66" pad="1"/>
+<contactref element="R71" pad="1"/>
+<contactref element="C16" pad="1"/>
+<contactref element="U8" pad="8"/>
+<contactref element="R75" pad="1"/>
+<contactref element="R80" pad="1"/>
+<contactref element="C18" pad="1"/>
+<contactref element="U9" pad="8"/>
+<contactref element="R84" pad="1"/>
+<contactref element="R89" pad="1"/>
+<contactref element="R37" pad="2"/>
+<contactref element="R38" pad="2"/>
 <wire x1="-89.789" y1="253.746" x2="-15.4432" y2="268.859" width="0" layer="19" extent="1-1"/>
 <wire x1="-115.189" y1="253.746" x2="-89.789" y2="253.746" width="0" layer="19" extent="1-1"/>
 <wire x1="-207.899" y1="247.396" x2="-115.189" y2="253.746" width="0" layer="19" extent="1-1"/>
-<wire x1="-225.679" y1="247.396" x2="-207.899" y2="247.396" width="0" layer="19" extent="1-1"/>
-<wire x1="-243.459" y1="247.396" x2="-225.679" y2="247.396" width="0" layer="19" extent="1-1"/>
-<wire x1="-209.296" y1="275.971" x2="-207.899" y2="247.396" width="0" layer="19" extent="1-1"/>
-<wire x1="-218.186" y1="275.971" x2="-209.296" y2="275.971" width="0" layer="19" extent="1-1"/>
-<wire x1="-185.5978" y1="328.295" x2="-209.296" y2="275.971" width="0" layer="19" extent="1-1"/>
-<wire x1="-185.5978" y1="329.565" x2="-185.5978" y2="328.295" width="0" layer="19" extent="1-1"/>
-<wire x1="-298.196" y1="275.971" x2="-243.459" y2="247.396" width="0" layer="19" extent="1-1"/>
-<wire x1="-323.469" y1="247.396" x2="-298.196" y2="275.971" width="0" layer="19" extent="1-1"/>
-<wire x1="-286.7406" y1="325.12" x2="-298.196" y2="275.971" width="0" layer="19" extent="1-1"/>
-<wire x1="-277.8506" y1="325.12" x2="-286.7406" y2="325.12" width="0" layer="19" extent="1-1"/>
-<wire x1="-255.27" y1="328.93" x2="-277.8506" y2="325.12" width="0" layer="19" extent="1-1"/>
-<wire x1="-326.39" y1="350.52" x2="-286.7406" y2="325.12" width="0" layer="19" extent="1-1"/>
+<wire x1="-255.27" y1="328.93" x2="-207.899" y2="247.396" width="0" layer="19" extent="1-1"/>
+<wire x1="-298.196" y1="275.971" x2="-255.27" y2="328.93" width="0" layer="19" extent="1-1"/>
+<wire x1="-326.39" y1="350.52" x2="-255.27" y2="328.93" width="0" layer="19" extent="1-1"/>
 <wire x1="-339.09" y1="350.52" x2="-326.39" y2="350.52" width="0" layer="19" extent="1-1"/>
 <wire x1="-364.49" y1="350.52" x2="-339.09" y2="350.52" width="0" layer="19" extent="1-1"/>
-<wire x1="-355.346" y1="303.149" x2="-364.49" y2="350.52" width="0" layer="19" extent="1-1"/>
 <wire x1="62.865" y1="57.658" x2="-15.4432" y2="268.859" width="0" layer="19" extent="1-1"/>
 <wire x1="66.421" y1="31.242" x2="62.865" y2="57.658" width="0" layer="19" extent="1-1"/>
 <wire x1="40.894" y1="3.302" x2="66.421" y2="31.242" width="0" layer="19" extent="1-1"/>
 <wire x1="3.175" y1="7.366" x2="40.894" y2="3.302" width="0" layer="19" extent="1-1"/>
-<wire x1="84.328" y1="321.691" x2="-323.469" y2="247.396" width="0" layer="19" extent="1-1"/>
+<wire x1="-376.301" y1="-92.904" x2="-298.196" y2="275.971" width="0" layer="19" extent="1-1"/>
+<wire x1="-377.444" y1="-110.744" x2="-376.301" y2="-92.904" width="0" layer="19" extent="1-1"/>
+<wire x1="-377.19" y1="-124.206" x2="-377.444" y2="-110.744" width="0" layer="19" extent="1-1"/>
+<wire x1="-377.19" y1="-168.275" x2="-377.19" y2="-124.206" width="0" layer="19" extent="1-1"/>
+<wire x1="-376.301" y1="-175.581" x2="-377.19" y2="-168.275" width="0" layer="19" extent="1-1"/>
+<wire x1="-367.665" y1="-177.292" x2="-376.301" y2="-175.581" width="0" layer="19" extent="1-1"/>
+<wire x1="-365.379" y1="-190.246" x2="-367.665" y2="-177.292" width="0" layer="19" extent="1-1"/>
+<wire x1="-377.19" y1="-203.2" x2="-365.379" y2="-190.246" width="0" layer="19" extent="1-1"/>
+<wire x1="-369.57" y1="-304.546" x2="-377.19" y2="-203.2" width="0" layer="19" extent="1-1"/>
+<wire x1="-366.522" y1="-311.852" x2="-369.57" y2="-304.546" width="0" layer="19" extent="1-1"/>
+<wire x1="-376.301" y1="-311.852" x2="-366.522" y2="-311.852" width="0" layer="19" extent="1-1"/>
+<wire x1="-356.743" y1="-311.852" x2="-366.522" y2="-311.852" width="0" layer="19" extent="1-1"/>
+<wire x1="-348.107" y1="-313.563" x2="-356.743" y2="-311.852" width="0" layer="19" extent="1-1"/>
+<wire x1="-351.917" y1="-321.691" x2="-348.107" y2="-313.563" width="0" layer="19" extent="1-1"/>
+<wire x1="-353.568" y1="-326.517" x2="-351.917" y2="-321.691" width="0" layer="19" extent="1-1"/>
+<wire x1="-368.935" y1="-321.691" x2="-366.522" y2="-311.852" width="0" layer="19" extent="1-1"/>
+<wire x1="-353.568" y1="-339.471" x2="-353.568" y2="-326.517" width="0" layer="19" extent="1-1"/>
+<wire x1="-365.379" y1="-335.153" x2="-353.568" y2="-339.471" width="0" layer="19" extent="1-1"/>
+<wire x1="-365.379" y1="-348.107" x2="-365.379" y2="-335.153" width="0" layer="19" extent="1-1"/>
+<wire x1="-353.568" y1="-352.425" x2="-365.379" y2="-348.107" width="0" layer="19" extent="1-1"/>
+<wire x1="-365.379" y1="-361.061" x2="-365.379" y2="-348.107" width="0" layer="19" extent="1-1"/>
+<wire x1="-369.57" y1="-365.379" x2="-365.379" y2="-361.061" width="0" layer="19" extent="1-1"/>
+<wire x1="-369.57" y1="-369.697" x2="-369.57" y2="-365.379" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="FUEL">
 <contactref element="J1" pad="10"/>
@@ -4582,9 +4601,6 @@ design rules under a new name.</description>
 <contactref element="J8" pad="6"/>
 <contactref element="C2" pad="2"/>
 <contactref element="C1" pad="2"/>
-<contactref element="C4" pad="2"/>
-<contactref element="C3" pad="2"/>
-<contactref element="U2" pad="7"/>
 <contactref element="U1" pad="7"/>
 <contactref element="TP4" pad="TP"/>
 <contactref element="TP5" pad="TP"/>
@@ -4610,18 +4626,59 @@ design rules under a new name.</description>
 <contactref element="Q4" pad="E"/>
 <contactref element="Q5" pad="E"/>
 <contactref element="Q6" pad="E"/>
-<contactref element="R21" pad="1"/>
-<contactref element="C25" pad="2"/>
-<wire x1="81.534" y1="312.674" x2="76.708" y2="317.373" width="0" layer="19" extent="1-1"/>
-<wire x1="-229.489" y1="247.396" x2="76.708" y2="317.373" width="0" layer="19" extent="1-1"/>
-<wire x1="-220.599" y1="247.396" x2="-229.489" y2="247.396" width="0" layer="19" extent="1-1"/>
-<wire x1="-211.709" y1="247.396" x2="-220.599" y2="247.396" width="0" layer="19" extent="1-1"/>
-<wire x1="-202.819" y1="247.396" x2="-211.709" y2="247.396" width="0" layer="19" extent="1-1"/>
-<wire x1="-293.116" y1="275.971" x2="-229.489" y2="247.396" width="0" layer="19" extent="1-1"/>
-<wire x1="-310.896" y1="275.971" x2="-293.116" y2="275.971" width="0" layer="19" extent="1-1"/>
-<wire x1="-319.786" y1="275.971" x2="-310.896" y2="275.971" width="0" layer="19" extent="1-1"/>
-<wire x1="-360.1466" y1="295.529" x2="-319.786" y2="275.971" width="0" layer="19" extent="1-1"/>
+<contactref element="C3" pad="2"/>
+<contactref element="U5" pad="4"/>
+<contactref element="R6" pad="1"/>
+<contactref element="R10" pad="1"/>
+<contactref element="C5" pad="2"/>
+<contactref element="U2" pad="4"/>
+<contactref element="R19" pad="1"/>
+<contactref element="R15" pad="1"/>
+<contactref element="R65" pad="1"/>
+<contactref element="C13" pad="2"/>
+<contactref element="C14" pad="2"/>
+<contactref element="U7" pad="4"/>
+<contactref element="R72" pad="1"/>
+<contactref element="R68" pad="1"/>
+<contactref element="C16" pad="2"/>
+<contactref element="U8" pad="4"/>
+<contactref element="R81" pad="1"/>
+<contactref element="R77" pad="1"/>
+<contactref element="C18" pad="2"/>
+<contactref element="U9" pad="4"/>
+<contactref element="R90" pad="1"/>
+<contactref element="R86" pad="1"/>
+<contactref element="C7" pad="2"/>
+<contactref element="C8" pad="2"/>
+<wire x1="-372.364" y1="-374.396" x2="-372.364" y2="-379.603" width="0" layer="19" extent="1-1"/>
+<wire x1="-365.379" y1="-356.743" x2="-372.364" y2="-374.396" width="0" layer="19" extent="1-1"/>
+<wire x1="-353.568" y1="-361.061" x2="-365.379" y2="-356.743" width="0" layer="19" extent="1-1"/>
+<wire x1="-365.379" y1="-343.789" x2="-365.379" y2="-356.743" width="0" layer="19" extent="1-1"/>
+<wire x1="-353.568" y1="-348.107" x2="-365.379" y2="-343.789" width="0" layer="19" extent="1-1"/>
+<wire x1="-365.379" y1="-330.835" x2="-365.379" y2="-343.789" width="0" layer="19" extent="1-1"/>
+<wire x1="-363.855" y1="-321.691" x2="-365.379" y2="-330.835" width="0" layer="19" extent="1-1"/>
+<wire x1="-362.712" y1="-317.052" x2="-363.855" y2="-321.691" width="0" layer="19" extent="1-1"/>
+<wire x1="-372.491" y1="-317.052" x2="-362.712" y2="-317.052" width="0" layer="19" extent="1-1"/>
+<wire x1="-377.19" y1="-308.864" x2="-372.491" y2="-317.052" width="0" layer="19" extent="1-1"/>
+<wire x1="-352.933" y1="-317.052" x2="-362.712" y2="-317.052" width="0" layer="19" extent="1-1"/>
+<wire x1="-346.837" y1="-321.691" x2="-352.933" y2="-317.052" width="0" layer="19" extent="1-1"/>
+<wire x1="-343.027" y1="-313.563" x2="-346.837" y2="-321.691" width="0" layer="19" extent="1-1"/>
+<wire x1="-372.364" y1="-299.72" x2="-377.19" y2="-308.864" width="0" layer="19" extent="1-1"/>
+<wire x1="-353.568" y1="-335.153" x2="-365.379" y2="-330.835" width="0" layer="19" extent="1-1"/>
+<wire x1="-365.379" y1="-203.2" x2="-372.364" y2="-299.72" width="0" layer="19" extent="1-1"/>
+<wire x1="-365.379" y1="-194.564" x2="-365.379" y2="-203.2" width="0" layer="19" extent="1-1"/>
+<wire x1="-372.491" y1="-180.781" x2="-365.379" y2="-194.564" width="0" layer="19" extent="1-1"/>
+<wire x1="-377.19" y1="-172.593" x2="-372.491" y2="-180.781" width="0" layer="19" extent="1-1"/>
+<wire x1="-362.585" y1="-177.292" x2="-372.491" y2="-180.781" width="0" layer="19" extent="1-1"/>
+<wire x1="-377.19" y1="-155.321" x2="-377.19" y2="-172.593" width="0" layer="19" extent="1-1"/>
+<wire x1="-372.364" y1="-110.744" x2="-377.19" y2="-155.321" width="0" layer="19" extent="1-1"/>
+<wire x1="-372.491" y1="-98.104" x2="-372.364" y2="-110.744" width="0" layer="19" extent="1-1"/>
+<wire x1="-319.786" y1="275.971" x2="-372.491" y2="-98.104" width="0" layer="19" extent="1-1"/>
+<wire x1="-310.896" y1="275.971" x2="-319.786" y2="275.971" width="0" layer="19" extent="1-1"/>
+<wire x1="-293.116" y1="275.971" x2="-310.896" y2="275.971" width="0" layer="19" extent="1-1"/>
 <wire x1="-260.0706" y1="321.31" x2="-293.116" y2="275.971" width="0" layer="19" extent="1-1"/>
+<wire x1="-211.709" y1="247.396" x2="-293.116" y2="275.971" width="0" layer="19" extent="1-1"/>
+<wire x1="-202.819" y1="247.396" x2="-211.709" y2="247.396" width="0" layer="19" extent="1-1"/>
 <wire x1="-15.4432" y1="270.129" x2="-202.819" y2="247.396" width="0" layer="19" extent="1-1"/>
 <wire x1="-10.7188" y1="271.399" x2="-15.4432" y2="270.129" width="0" layer="19" extent="1-1"/>
 <wire x1="12.446" y1="306.578" x2="-10.7188" y2="271.399" width="0" layer="19" extent="1-1"/>
@@ -4652,8 +4709,8 @@ design rules under a new name.</description>
 <contactref element="J2" pad="1"/>
 <contactref element="Q7" pad="1"/>
 <contactref element="TP18" pad="TP"/>
-<wire x1="10.795" y1="73.787" x2="48.514" y2="51.562" width="0" layer="19" extent="1-1"/>
-<wire x1="36.449" y1="56.896" x2="10.795" y2="73.787" width="0" layer="19" extent="1-1"/>
+<wire x1="11.43" y1="74.041" x2="48.514" y2="51.562" width="0" layer="19" extent="1-1"/>
+<wire x1="36.449" y1="56.896" x2="11.43" y2="74.041" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="+12V">
 <contactref element="J4" pad="8"/>
@@ -4703,90 +4760,27 @@ design rules under a new name.</description>
 <signal name="MOSI_5V">
 <contactref element="U1" pad="13"/>
 <contactref element="TP36" pad="TP"/>
-<contactref element="U3" pad="11"/>
-<wire x1="-185.5978" y1="323.215" x2="-148.59" y2="345.44" width="0" layer="19" extent="1-1"/>
-<wire x1="-255.27" y1="327.66" x2="-185.5978" y2="323.215" width="0" layer="19" extent="1-1"/>
+<wire x1="-255.27" y1="327.66" x2="-148.59" y2="345.44" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="SCK_5V">
 <contactref element="U1" pad="12"/>
 <contactref element="TP37" pad="TP"/>
-<contactref element="U3" pad="13"/>
-<wire x1="-185.5978" y1="325.755" x2="-161.29" y2="345.44" width="0" layer="19" extent="1-1"/>
-<wire x1="-255.27" y1="326.39" x2="-185.5978" y2="325.755" width="0" layer="19" extent="1-1"/>
+<wire x1="-255.27" y1="326.39" x2="-161.29" y2="345.44" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="MISO_5V">
 <contactref element="U1" pad="11"/>
 <contactref element="TP38" pad="TP"/>
-<contactref element="U3" pad="12"/>
-<wire x1="-185.5978" y1="324.485" x2="-173.99" y2="345.44" width="0" layer="19" extent="1-1"/>
-<wire x1="-255.27" y1="325.12" x2="-185.5978" y2="324.485" width="0" layer="19" extent="1-1"/>
+<wire x1="-255.27" y1="325.12" x2="-173.99" y2="345.44" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="CS1_5V">
 <contactref element="U1" pad="10"/>
 <contactref element="TP39" pad="TP"/>
-<contactref element="U3" pad="10"/>
-<wire x1="-185.5978" y1="321.945" x2="-186.69" y2="345.44" width="0" layer="19" extent="1-1"/>
-<wire x1="-255.27" y1="323.85" x2="-185.5978" y2="321.945" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="CS2_3V3">
-<contactref element="U2" pad="2"/>
-<contactref element="TP15" pad="TP"/>
-<wire x1="-360.1466" y1="301.879" x2="-373.634" y2="295.656" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="CS3_3V3">
-<contactref element="U2" pad="3"/>
-<contactref element="TP14" pad="TP"/>
-<wire x1="-360.1466" y1="300.609" x2="-373.38" y2="286.512" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="CS2_5V">
-<contactref element="U2" pad="13"/>
-<contactref element="TP52" pad="TP"/>
-<wire x1="-350.52" y1="315.214" x2="-355.346" y2="301.879" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="CS3_5V">
-<contactref element="U2" pad="12"/>
-<contactref element="TP53" pad="TP"/>
-<wire x1="-355.346" y1="300.609" x2="-354.711" y2="284.226" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="N$12">
-<contactref element="U2" pad="8"/>
+<wire x1="-255.27" y1="323.85" x2="-186.69" y2="345.44" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="AGND">
 <contactref element="TP8" pad="TP"/>
 <contactref element="TP9" pad="TP"/>
 <contactref element="TP7" pad="TP"/>
-<contactref element="C5" pad="2"/>
-<contactref element="C14" pad="2"/>
-<contactref element="C7" pad="2"/>
-<contactref element="C9" pad="2"/>
-<contactref element="U4" pad="11"/>
-<contactref element="C16" pad="2"/>
-<contactref element="C18" pad="2"/>
-<contactref element="U5" pad="11"/>
-<contactref element="C22" pad="2"/>
-<contactref element="C20" pad="2"/>
-<contactref element="C13" pad="2"/>
-<contactref element="C11" pad="2"/>
-<contactref element="C23" pad="2"/>
-<contactref element="U3" pad="14"/>
-<contactref element="U3" pad="9"/>
-<contactref element="C24" pad="2"/>
-<wire x1="-185.5978" y1="320.675" x2="-185.5978" y2="327.025" width="0" layer="19" extent="1-1"/>
-<wire x1="-177.546" y1="275.971" x2="-185.5978" y2="320.675" width="0" layer="19" extent="1-1"/>
-<wire x1="-159.766" y1="275.971" x2="-177.546" y2="275.971" width="0" layer="19" extent="1-1"/>
-<wire x1="-141.986" y1="275.971" x2="-159.766" y2="275.971" width="0" layer="19" extent="1-1"/>
-<wire x1="-195.326" y1="275.971" x2="-177.546" y2="275.971" width="0" layer="19" extent="1-1"/>
-<wire x1="-204.216" y1="275.971" x2="-195.326" y2="275.971" width="0" layer="19" extent="1-1"/>
-<wire x1="-213.106" y1="275.971" x2="-204.216" y2="275.971" width="0" layer="19" extent="1-1"/>
-<wire x1="-238.379" y1="247.396" x2="-213.106" y2="275.971" width="0" layer="19" extent="1-1"/>
-<wire x1="-256.159" y1="247.396" x2="-238.379" y2="247.396" width="0" layer="19" extent="1-1"/>
-<wire x1="-273.939" y1="247.396" x2="-256.159" y2="247.396" width="0" layer="19" extent="1-1"/>
-<wire x1="-291.719" y1="247.396" x2="-273.939" y2="247.396" width="0" layer="19" extent="1-1"/>
-<wire x1="-309.499" y1="247.396" x2="-291.719" y2="247.396" width="0" layer="19" extent="1-1"/>
-<wire x1="-318.389" y1="247.396" x2="-309.499" y2="247.396" width="0" layer="19" extent="1-1"/>
-<wire x1="-273.05" y1="325.12" x2="-213.106" y2="275.971" width="0" layer="19" extent="1-1"/>
-<wire x1="-281.94" y1="325.12" x2="-273.05" y2="325.12" width="0" layer="19" extent="1-1"/>
-<wire x1="15.875" y1="14.351" x2="-141.986" y2="275.971" width="0" layer="19" extent="1-1"/>
 <wire x1="15.875" y1="10.414" x2="15.875" y2="14.351" width="0" layer="19" extent="1-1"/>
 <wire x1="9.652" y1="7.62" x2="15.875" y2="10.414" width="0" layer="19" extent="1-1"/>
 </signal>
@@ -4840,294 +4834,8 @@ design rules under a new name.</description>
 <contactref element="Q7" pad="3"/>
 <contactref element="R32" pad="2"/>
 <contactref element="TP19" pad="TP"/>
-<wire x1="18.923" y1="62.738" x2="10.795" y2="68.707" width="0" layer="19" extent="1-1"/>
+<wire x1="18.923" y1="62.738" x2="11.43" y2="68.961" width="0" layer="19" extent="1-1"/>
 <wire x1="25.019" y1="57.15" x2="18.923" y2="62.738" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="MAP_FIL">
-<contactref element="U4" pad="2"/>
-<contactref element="U4" pad="1"/>
-<contactref element="C6" pad="1"/>
-<contactref element="TP21" pad="TP"/>
-<contactref element="R37" pad="1"/>
-<wire x1="24.003" y1="20.955" x2="-178.689" y2="253.746" width="0" layer="19" extent="1-1"/>
-<wire x1="-252.349" y1="247.396" x2="24.003" y2="20.955" width="0" layer="19" extent="1-1"/>
-<wire x1="-277.8506" y1="327.66" x2="-252.349" y2="247.396" width="0" layer="19" extent="1-1"/>
-<wire x1="-277.8506" y1="328.93" x2="-277.8506" y2="327.66" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="N$2">
-<contactref element="U4" pad="3"/>
-<contactref element="C7" pad="1"/>
-<contactref element="R3" pad="2"/>
-<wire x1="-261.239" y1="247.396" x2="-277.8506" y2="326.39" width="0" layer="19" extent="1-1"/>
-<wire x1="-64.77" y1="350.52" x2="-277.8506" y2="326.39" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="MAP">
-<contactref element="R2" pad="1"/>
-<contactref element="TP20" pad="TP"/>
-<wire x1="19.812" y1="20.955" x2="-59.69" y2="350.52" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="N$5">
-<contactref element="R2" pad="2"/>
-<contactref element="C6" pad="2"/>
-<contactref element="R3" pad="1"/>
-<wire x1="-72.39" y1="350.52" x2="-52.07" y2="350.52" width="0" layer="19" extent="1-1"/>
-<wire x1="-247.269" y1="247.396" x2="-72.39" y2="350.52" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="N$6">
-<contactref element="C9" pad="1"/>
-<contactref element="R5" pad="2"/>
-<contactref element="U4" pad="5"/>
-<wire x1="-279.019" y1="247.396" x2="-277.8506" y2="323.85" width="0" layer="19" extent="1-1"/>
-<wire x1="-90.17" y1="350.52" x2="-277.8506" y2="323.85" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="N$7">
-<contactref element="R4" pad="2"/>
-<contactref element="C8" pad="2"/>
-<contactref element="R5" pad="1"/>
-<wire x1="-97.79" y1="350.52" x2="-77.47" y2="350.52" width="0" layer="19" extent="1-1"/>
-<wire x1="-265.049" y1="247.396" x2="-97.79" y2="350.52" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="TPS_FIL">
-<contactref element="C8" pad="1"/>
-<contactref element="U4" pad="6"/>
-<contactref element="U4" pad="7"/>
-<contactref element="TP23" pad="TP"/>
-<contactref element="R38" pad="1"/>
-<wire x1="-270.129" y1="247.396" x2="-191.389" y2="253.746" width="0" layer="19" extent="1-1"/>
-<wire x1="23.876" y1="27.178" x2="-270.129" y2="247.396" width="0" layer="19" extent="1-1"/>
-<wire x1="-277.8506" y1="321.31" x2="-270.129" y2="247.396" width="0" layer="19" extent="1-1"/>
-<wire x1="-277.8506" y1="322.58" x2="-277.8506" y2="321.31" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="TPS">
-<contactref element="R4" pad="1"/>
-<contactref element="TP22" pad="TP"/>
-<wire x1="-85.09" y1="350.52" x2="19.685" y2="27.178" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="N$8">
-<contactref element="C11" pad="1"/>
-<contactref element="R7" pad="2"/>
-<contactref element="U4" pad="10"/>
-<wire x1="-273.05" y1="323.85" x2="-115.57" y2="350.52" width="0" layer="19" extent="1-1"/>
-<wire x1="-296.799" y1="247.396" x2="-273.05" y2="323.85" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="N$9">
-<contactref element="R6" pad="2"/>
-<contactref element="C10" pad="2"/>
-<contactref element="R7" pad="1"/>
-<wire x1="-123.19" y1="350.52" x2="-102.87" y2="350.52" width="0" layer="19" extent="1-1"/>
-<wire x1="-282.829" y1="247.396" x2="-123.19" y2="350.52" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="IAT_FIL">
-<contactref element="U4" pad="9"/>
-<contactref element="U4" pad="8"/>
-<contactref element="C10" pad="1"/>
-<contactref element="TP25" pad="TP"/>
-<contactref element="R39" pad="1"/>
-<wire x1="-287.909" y1="247.396" x2="23.749" y2="40.259" width="0" layer="19" extent="1-1"/>
-<wire x1="-273.05" y1="321.31" x2="-287.909" y2="247.396" width="0" layer="19" extent="1-1"/>
-<wire x1="-273.05" y1="322.58" x2="-273.05" y2="321.31" width="0" layer="19" extent="1-1"/>
-<wire x1="-204.089" y1="253.746" x2="-287.909" y2="247.396" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="IAT">
-<contactref element="R6" pad="1"/>
-<contactref element="TP24" pad="TP"/>
-<wire x1="20.066" y1="40.259" x2="-110.49" y2="350.52" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="N$10">
-<contactref element="C13" pad="1"/>
-<contactref element="R9" pad="2"/>
-<contactref element="U4" pad="12"/>
-<wire x1="-273.05" y1="326.39" x2="-140.97" y2="350.52" width="0" layer="19" extent="1-1"/>
-<wire x1="-314.579" y1="247.396" x2="-273.05" y2="326.39" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="N$11">
-<contactref element="R8" pad="2"/>
-<contactref element="C12" pad="2"/>
-<contactref element="R9" pad="1"/>
-<wire x1="-148.59" y1="350.52" x2="-128.27" y2="350.52" width="0" layer="19" extent="1-1"/>
-<wire x1="-300.609" y1="247.396" x2="-148.59" y2="350.52" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="ECT_FIL">
-<contactref element="U4" pad="13"/>
-<contactref element="U4" pad="14"/>
-<contactref element="C12" pad="1"/>
-<contactref element="TP27" pad="TP"/>
-<contactref element="R40" pad="1"/>
-<wire x1="-305.689" y1="247.396" x2="23.749" y2="33.655" width="0" layer="19" extent="1-1"/>
-<wire x1="-273.05" y1="327.66" x2="-305.689" y2="247.396" width="0" layer="19" extent="1-1"/>
-<wire x1="-273.05" y1="328.93" x2="-273.05" y2="327.66" width="0" layer="19" extent="1-1"/>
-<wire x1="-216.789" y1="253.746" x2="-305.689" y2="247.396" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="ECT">
-<contactref element="R8" pad="1"/>
-<contactref element="TP26" pad="TP"/>
-<wire x1="19.812" y1="33.655" x2="-135.89" y2="350.52" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="N$14">
-<contactref element="U5" pad="3"/>
-<contactref element="C16" pad="1"/>
-<contactref element="R11" pad="2"/>
-<wire x1="-147.066" y1="275.971" x2="-166.37" y2="350.52" width="0" layer="19" extent="1-1"/>
-<wire x1="-286.7406" y1="326.39" x2="-166.37" y2="350.52" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="N$15">
-<contactref element="R10" pad="2"/>
-<contactref element="C15" pad="2"/>
-<contactref element="R11" pad="1"/>
-<wire x1="-173.99" y1="350.52" x2="-153.67" y2="350.52" width="0" layer="19" extent="1-1"/>
-<wire x1="-133.096" y1="275.971" x2="-153.67" y2="350.52" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="N$16">
-<contactref element="C18" pad="1"/>
-<contactref element="R13" pad="2"/>
-<contactref element="U5" pad="5"/>
-<wire x1="-164.846" y1="275.971" x2="-191.77" y2="350.52" width="0" layer="19" extent="1-1"/>
-<wire x1="-286.7406" y1="323.85" x2="-191.77" y2="350.52" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="N$17">
-<contactref element="R12" pad="2"/>
-<contactref element="C17" pad="2"/>
-<contactref element="R13" pad="1"/>
-<wire x1="-199.39" y1="350.52" x2="-179.07" y2="350.52" width="0" layer="19" extent="1-1"/>
-<wire x1="-150.876" y1="275.971" x2="-179.07" y2="350.52" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="N$18">
-<contactref element="C20" pad="1"/>
-<contactref element="R15" pad="2"/>
-<contactref element="U5" pad="10"/>
-<wire x1="-281.94" y1="323.85" x2="-217.17" y2="350.52" width="0" layer="19" extent="1-1"/>
-<wire x1="-182.626" y1="275.971" x2="-217.17" y2="350.52" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="N$19">
-<contactref element="R14" pad="2"/>
-<contactref element="C19" pad="2"/>
-<contactref element="R15" pad="1"/>
-<wire x1="-224.79" y1="350.52" x2="-204.47" y2="350.52" width="0" layer="19" extent="1-1"/>
-<wire x1="-168.656" y1="275.971" x2="-204.47" y2="350.52" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="N$20">
-<contactref element="C22" pad="1"/>
-<contactref element="R17" pad="2"/>
-<contactref element="U5" pad="12"/>
-<wire x1="-281.94" y1="326.39" x2="-242.57" y2="350.52" width="0" layer="19" extent="1-1"/>
-<wire x1="-200.406" y1="275.971" x2="-242.57" y2="350.52" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="N$21">
-<contactref element="R16" pad="2"/>
-<contactref element="C21" pad="2"/>
-<contactref element="R17" pad="1"/>
-<wire x1="-250.19" y1="350.52" x2="-229.87" y2="350.52" width="0" layer="19" extent="1-1"/>
-<wire x1="-186.436" y1="275.971" x2="-229.87" y2="350.52" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="SPR_A1">
-<contactref element="R12" pad="1"/>
-<contactref element="JP4" pad="1"/>
-<contactref element="TP30" pad="TP"/>
-<wire x1="-72.39" y1="345.44" x2="-186.69" y2="350.52" width="0" layer="19" extent="1-1"/>
-<wire x1="-121.539" y1="225.806" x2="-72.39" y2="345.44" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="O2_FIL">
-<contactref element="C15" pad="1"/>
-<contactref element="U5" pad="2"/>
-<contactref element="U5" pad="1"/>
-<contactref element="TP29" pad="TP"/>
-<contactref element="R41" pad="1"/>
-<wire x1="-229.489" y1="253.746" x2="-138.176" y2="275.971" width="0" layer="19" extent="1-1"/>
-<wire x1="-286.7406" y1="327.66" x2="-229.489" y2="253.746" width="0" layer="19" extent="1-1"/>
-<wire x1="-286.7406" y1="328.93" x2="-286.7406" y2="327.66" width="0" layer="19" extent="1-1"/>
-<wire x1="-59.69" y1="345.44" x2="-138.176" y2="275.971" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="O2">
-<contactref element="R10" pad="1"/>
-<contactref element="TP28" pad="TP"/>
-<wire x1="-46.99" y1="345.44" x2="-161.29" y2="350.52" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="SPR_A1_FIL">
-<contactref element="C17" pad="1"/>
-<contactref element="U5" pad="7"/>
-<contactref element="U5" pad="6"/>
-<contactref element="TP31" pad="TP"/>
-<contactref element="R42" pad="1"/>
-<wire x1="-242.189" y1="253.746" x2="-155.956" y2="275.971" width="0" layer="19" extent="1-1"/>
-<wire x1="-286.7406" y1="321.31" x2="-242.189" y2="253.746" width="0" layer="19" extent="1-1"/>
-<wire x1="-286.7406" y1="322.58" x2="-286.7406" y2="321.31" width="0" layer="19" extent="1-1"/>
-<wire x1="-85.09" y1="345.44" x2="-155.956" y2="275.971" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="SPR_A2_FIL">
-<contactref element="U5" pad="9"/>
-<contactref element="U5" pad="8"/>
-<contactref element="C19" pad="1"/>
-<contactref element="TP33" pad="TP"/>
-<contactref element="R43" pad="1"/>
-<wire x1="-173.736" y1="275.971" x2="-110.49" y2="345.44" width="0" layer="19" extent="1-1"/>
-<wire x1="-254.889" y1="253.746" x2="-173.736" y2="275.971" width="0" layer="19" extent="1-1"/>
-<wire x1="-281.94" y1="321.31" x2="-254.889" y2="253.746" width="0" layer="19" extent="1-1"/>
-<wire x1="-281.94" y1="322.58" x2="-281.94" y2="321.31" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="SPR_A3_FIL">
-<contactref element="U5" pad="13"/>
-<contactref element="U5" pad="14"/>
-<contactref element="C21" pad="1"/>
-<contactref element="TP35" pad="TP"/>
-<contactref element="R44" pad="1"/>
-<wire x1="-191.516" y1="275.971" x2="-135.89" y2="345.44" width="0" layer="19" extent="1-1"/>
-<wire x1="-267.589" y1="253.746" x2="-191.516" y2="275.971" width="0" layer="19" extent="1-1"/>
-<wire x1="-281.94" y1="327.66" x2="-267.589" y2="253.746" width="0" layer="19" extent="1-1"/>
-<wire x1="-281.94" y1="328.93" x2="-281.94" y2="327.66" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="SPR_A2">
-<contactref element="R14" pad="1"/>
-<contactref element="JP5" pad="1"/>
-<contactref element="TP32" pad="TP"/>
-<wire x1="-212.09" y1="350.52" x2="-97.79" y2="345.44" width="0" layer="19" extent="1-1"/>
-<wire x1="-130.429" y1="225.806" x2="-97.79" y2="345.44" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="SPR_A3">
-<contactref element="R16" pad="1"/>
-<contactref element="JP6" pad="1"/>
-<contactref element="TP34" pad="TP"/>
-<wire x1="-237.49" y1="350.52" x2="-123.19" y2="345.44" width="0" layer="19" extent="1-1"/>
-<wire x1="-139.319" y1="225.806" x2="-123.19" y2="345.44" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="IAT_ADC">
-<contactref element="U3" pad="3"/>
-<contactref element="R39" pad="2"/>
-<wire x1="-196.469" y1="253.746" x2="-190.3222" y2="327.025" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="ECT_ADC">
-<contactref element="U3" pad="4"/>
-<contactref element="R40" pad="2"/>
-<wire x1="-209.169" y1="253.746" x2="-190.3222" y2="325.755" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="SPRA2ADC">
-<contactref element="U3" pad="7"/>
-<contactref element="R43" pad="2"/>
-<wire x1="-247.269" y1="253.746" x2="-190.3222" y2="321.945" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="SPRA3ADC">
-<contactref element="U3" pad="8"/>
-<contactref element="R44" pad="2"/>
-<wire x1="-259.969" y1="253.746" x2="-190.3222" y2="320.675" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="MAP_ADC">
-<contactref element="U3" pad="1"/>
-<contactref element="R37" pad="2"/>
-<wire x1="-171.069" y1="253.746" x2="-190.3222" y2="329.565" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="TPS_ADC">
-<contactref element="U3" pad="2"/>
-<contactref element="R38" pad="2"/>
-<wire x1="-183.769" y1="253.746" x2="-190.3222" y2="328.295" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="O2_ADC">
-<contactref element="U3" pad="5"/>
-<contactref element="R41" pad="2"/>
-<wire x1="-221.869" y1="253.746" x2="-190.3222" y2="324.485" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="SPRA1ADC">
-<contactref element="U3" pad="6"/>
-<contactref element="R42" pad="2"/>
-<wire x1="-234.569" y1="253.746" x2="-190.3222" y2="323.215" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="CANH">
 <contactref element="U10" pad="7"/>
@@ -5264,13 +4972,281 @@ design rules under a new name.</description>
 <wire x1="-339.09" y1="345.44" x2="-102.489" y2="253.746" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="HALL">
-<contactref element="R20" pad="1"/>
-<contactref element="R21" pad="2"/>
-<contactref element="C25" pad="1"/>
 <contactref element="J2" pad="3"/>
-<wire x1="76.708" y1="321.691" x2="76.454" y2="312.674" width="0" layer="19" extent="1-1"/>
-<wire x1="84.328" y1="317.373" x2="76.708" y2="321.691" width="0" layer="19" extent="1-1"/>
-<wire x1="53.594" y1="51.562" x2="84.328" y2="317.373" width="0" layer="19" extent="1-1"/>
+<contactref element="R64" pad="1"/>
+<contactref element="R65" pad="2"/>
+<contactref element="C13" pad="1"/>
+<wire x1="-377.444" y1="-299.72" x2="-377.19" y2="-304.546" width="0" layer="19" extent="1-1"/>
+<wire x1="-369.57" y1="-308.864" x2="-377.19" y2="-304.546" width="0" layer="19" extent="1-1"/>
+<wire x1="53.594" y1="51.562" x2="-369.57" y2="-308.864" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$2">
+<contactref element="R5" pad="2"/>
+<contactref element="R4" pad="2"/>
+<contactref element="U5" pad="3"/>
+<wire x1="-369.57" y1="-124.206" x2="-369.57" y2="-128.524" width="0" layer="19" extent="1-1"/>
+<wire x1="-373.761" y1="-98.104" x2="-369.57" y2="-124.206" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$4">
+<contactref element="U5" pad="5"/>
+<contactref element="R9" pad="2"/>
+<contactref element="R10" pad="2"/>
+<wire x1="-369.57" y1="-168.275" x2="-372.491" y2="-92.904" width="0" layer="19" extent="1-1"/>
+<wire x1="-369.57" y1="-172.593" x2="-369.57" y2="-168.275" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$5">
+<contactref element="R2" pad="2"/>
+<contactref element="U5" pad="2"/>
+<contactref element="R3" pad="2"/>
+<wire x1="-369.57" y1="-115.57" x2="-369.57" y2="-119.888" width="0" layer="19" extent="1-1"/>
+<wire x1="-375.031" y1="-98.104" x2="-369.57" y2="-115.57" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$6">
+<contactref element="U5" pad="1"/>
+<contactref element="R7" pad="1"/>
+<contactref element="R3" pad="1"/>
+<wire x1="-376.301" y1="-98.104" x2="-377.19" y2="-119.888" width="0" layer="19" extent="1-1"/>
+<wire x1="-377.19" y1="-159.639" x2="-377.19" y2="-119.888" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$7">
+<contactref element="U5" pad="6"/>
+<contactref element="C4" pad="1"/>
+<contactref element="R7" pad="2"/>
+<contactref element="R8" pad="2"/>
+<wire x1="-377.444" y1="-150.495" x2="-373.761" y2="-92.904" width="0" layer="19" extent="1-1"/>
+<wire x1="-369.57" y1="-159.639" x2="-377.444" y2="-150.495" width="0" layer="19" extent="1-1"/>
+<wire x1="-369.57" y1="-163.957" x2="-369.57" y2="-159.639" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="ECT_FIL">
+<contactref element="U5" pad="7"/>
+<contactref element="C4" pad="2"/>
+<contactref element="R8" pad="1"/>
+<wire x1="-372.364" y1="-150.495" x2="-375.031" y2="-92.904" width="0" layer="19" extent="1-1"/>
+<wire x1="-377.19" y1="-163.957" x2="-372.364" y2="-150.495" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="ECT">
+<contactref element="R2" pad="1"/>
+<contactref element="R37" pad="1"/>
+<contactref element="C7" pad="1"/>
+<wire x1="-377.19" y1="-365.379" x2="-377.444" y2="-374.396" width="0" layer="19" extent="1-1"/>
+<wire x1="-377.19" y1="-115.57" x2="-377.19" y2="-365.379" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$9">
+<contactref element="R5" pad="1"/>
+<contactref element="R6" pad="2"/>
+<wire x1="-369.57" y1="-155.321" x2="-377.19" y2="-128.524" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$8">
+<contactref element="R14" pad="2"/>
+<contactref element="R13" pad="2"/>
+<contactref element="U2" pad="3"/>
+<wire x1="-357.759" y1="-190.246" x2="-369.57" y2="-194.564" width="0" layer="19" extent="1-1"/>
+<wire x1="-373.761" y1="-180.781" x2="-369.57" y2="-194.564" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$10">
+<contactref element="U2" pad="5"/>
+<contactref element="R18" pad="2"/>
+<contactref element="R19" pad="2"/>
+<wire x1="-357.759" y1="-203.2" x2="-369.57" y2="-203.2" width="0" layer="19" extent="1-1"/>
+<wire x1="-372.491" y1="-175.581" x2="-369.57" y2="-203.2" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$11">
+<contactref element="R11" pad="2"/>
+<contactref element="U2" pad="2"/>
+<contactref element="R12" pad="2"/>
+<wire x1="-361.061" y1="-185.039" x2="-369.57" y2="-190.246" width="0" layer="19" extent="1-1"/>
+<wire x1="-375.031" y1="-180.781" x2="-369.57" y2="-190.246" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$12">
+<contactref element="U2" pad="1"/>
+<contactref element="R16" pad="1"/>
+<contactref element="R12" pad="1"/>
+<wire x1="-377.19" y1="-190.246" x2="-377.19" y2="-198.882" width="0" layer="19" extent="1-1"/>
+<wire x1="-376.301" y1="-180.781" x2="-377.19" y2="-190.246" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$13">
+<contactref element="U2" pad="6"/>
+<contactref element="C6" pad="1"/>
+<contactref element="R16" pad="2"/>
+<contactref element="R17" pad="2"/>
+<wire x1="-357.759" y1="-198.882" x2="-369.57" y2="-198.882" width="0" layer="19" extent="1-1"/>
+<wire x1="-377.444" y1="-185.42" x2="-369.57" y2="-198.882" width="0" layer="19" extent="1-1"/>
+<wire x1="-373.761" y1="-175.581" x2="-377.444" y2="-185.42" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$14">
+<contactref element="R14" pad="1"/>
+<contactref element="R15" pad="2"/>
+<wire x1="-357.759" y1="-194.564" x2="-377.19" y2="-194.564" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="IAT">
+<contactref element="R11" pad="1"/>
+<contactref element="C8" pad="1"/>
+<contactref element="R38" pad="1"/>
+<wire x1="-377.19" y1="-369.697" x2="-377.444" y2="-379.603" width="0" layer="19" extent="1-1"/>
+<wire x1="-368.681" y1="-185.039" x2="-377.19" y2="-369.697" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="IAT_FIL">
+<contactref element="U2" pad="7"/>
+<contactref element="C6" pad="2"/>
+<contactref element="R17" pad="1"/>
+<wire x1="-372.364" y1="-185.42" x2="-365.379" y2="-198.882" width="0" layer="19" extent="1-1"/>
+<wire x1="-375.031" y1="-175.581" x2="-372.364" y2="-185.42" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="MAP">
+<contactref element="R20" pad="1"/>
+</signal>
+<signal name="MAP_FIL">
+<contactref element="U7" pad="7"/>
+<contactref element="C15" pad="2"/>
+<contactref element="R70" pad="1"/>
+<wire x1="-372.364" y1="-321.691" x2="-377.19" y2="-335.153" width="0" layer="19" extent="1-1"/>
+<wire x1="-375.031" y1="-311.852" x2="-372.364" y2="-321.691" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="O2">
+<contactref element="R73" pad="1"/>
+</signal>
+<signal name="O2_FIL">
+<contactref element="U8" pad="7"/>
+<contactref element="C17" pad="2"/>
+<contactref element="R79" pad="1"/>
+<wire x1="-355.346" y1="-321.691" x2="-377.19" y2="-348.107" width="0" layer="19" extent="1-1"/>
+<wire x1="-365.252" y1="-311.852" x2="-355.346" y2="-321.691" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$53">
+<contactref element="R67" pad="2"/>
+<contactref element="R66" pad="2"/>
+<contactref element="U7" pad="3"/>
+<wire x1="-373.761" y1="-317.052" x2="-369.57" y2="-330.835" width="0" layer="19" extent="1-1"/>
+<wire x1="-345.948" y1="-326.517" x2="-369.57" y2="-330.835" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$54">
+<contactref element="U7" pad="5"/>
+<contactref element="R71" pad="2"/>
+<contactref element="R72" pad="2"/>
+<wire x1="-345.948" y1="-335.153" x2="-357.759" y2="-335.153" width="0" layer="19" extent="1-1"/>
+<wire x1="-372.491" y1="-311.852" x2="-357.759" y2="-335.153" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$55">
+<contactref element="R20" pad="2"/>
+<contactref element="U7" pad="2"/>
+<contactref element="R21" pad="2"/>
+<wire x1="-375.031" y1="-317.052" x2="-369.57" y2="-326.517" width="0" layer="19" extent="1-1"/>
+<wire x1="-357.759" y1="-326.517" x2="-369.57" y2="-326.517" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$56">
+<contactref element="U7" pad="1"/>
+<contactref element="R69" pad="1"/>
+<contactref element="R21" pad="1"/>
+<wire x1="-365.379" y1="-326.517" x2="-376.301" y2="-317.052" width="0" layer="19" extent="1-1"/>
+<wire x1="-353.568" y1="-330.835" x2="-365.379" y2="-326.517" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$57">
+<contactref element="U7" pad="6"/>
+<contactref element="C15" pad="1"/>
+<contactref element="R69" pad="2"/>
+<contactref element="R70" pad="2"/>
+<wire x1="-377.444" y1="-321.691" x2="-369.57" y2="-335.153" width="0" layer="19" extent="1-1"/>
+<wire x1="-373.761" y1="-311.852" x2="-377.444" y2="-321.691" width="0" layer="19" extent="1-1"/>
+<wire x1="-345.948" y1="-330.835" x2="-369.57" y2="-335.153" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$58">
+<contactref element="R67" pad="1"/>
+<contactref element="R68" pad="2"/>
+<wire x1="-357.759" y1="-330.835" x2="-377.19" y2="-330.835" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$59">
+<contactref element="R76" pad="2"/>
+<contactref element="R75" pad="2"/>
+<contactref element="U8" pad="3"/>
+<wire x1="-345.948" y1="-339.471" x2="-369.57" y2="-343.789" width="0" layer="19" extent="1-1"/>
+<wire x1="-363.982" y1="-317.052" x2="-369.57" y2="-343.789" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$60">
+<contactref element="U8" pad="5"/>
+<contactref element="R80" pad="2"/>
+<contactref element="R81" pad="2"/>
+<wire x1="-345.948" y1="-348.107" x2="-357.759" y2="-348.107" width="0" layer="19" extent="1-1"/>
+<wire x1="-362.712" y1="-311.852" x2="-357.759" y2="-348.107" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$61">
+<contactref element="R73" pad="2"/>
+<contactref element="U8" pad="2"/>
+<contactref element="R74" pad="2"/>
+<wire x1="-357.759" y1="-339.471" x2="-369.57" y2="-339.471" width="0" layer="19" extent="1-1"/>
+<wire x1="-365.252" y1="-317.052" x2="-369.57" y2="-339.471" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$62">
+<contactref element="U8" pad="1"/>
+<contactref element="R78" pad="1"/>
+<contactref element="R74" pad="1"/>
+<wire x1="-353.568" y1="-343.789" x2="-365.379" y2="-339.471" width="0" layer="19" extent="1-1"/>
+<wire x1="-366.522" y1="-317.052" x2="-365.379" y2="-339.471" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$63">
+<contactref element="U8" pad="6"/>
+<contactref element="C17" pad="1"/>
+<contactref element="R78" pad="2"/>
+<contactref element="R79" pad="2"/>
+<wire x1="-345.948" y1="-343.789" x2="-369.57" y2="-348.107" width="0" layer="19" extent="1-1"/>
+<wire x1="-360.426" y1="-321.691" x2="-345.948" y2="-343.789" width="0" layer="19" extent="1-1"/>
+<wire x1="-363.982" y1="-311.852" x2="-360.426" y2="-321.691" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$64">
+<contactref element="R76" pad="1"/>
+<contactref element="R77" pad="2"/>
+<wire x1="-357.759" y1="-343.789" x2="-377.19" y2="-343.789" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$65">
+<contactref element="R85" pad="2"/>
+<contactref element="R84" pad="2"/>
+<contactref element="U9" pad="3"/>
+<wire x1="-345.948" y1="-352.425" x2="-369.57" y2="-356.743" width="0" layer="19" extent="1-1"/>
+<wire x1="-354.203" y1="-317.052" x2="-345.948" y2="-352.425" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$66">
+<contactref element="U9" pad="5"/>
+<contactref element="R89" pad="2"/>
+<contactref element="R90" pad="2"/>
+<wire x1="-345.948" y1="-361.061" x2="-357.759" y2="-361.061" width="0" layer="19" extent="1-1"/>
+<wire x1="-352.933" y1="-311.852" x2="-357.759" y2="-361.061" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$67">
+<contactref element="R82" pad="2"/>
+<contactref element="U9" pad="2"/>
+<contactref element="R83" pad="2"/>
+<wire x1="-357.759" y1="-352.425" x2="-369.57" y2="-352.425" width="0" layer="19" extent="1-1"/>
+<wire x1="-355.473" y1="-317.052" x2="-357.759" y2="-352.425" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$68">
+<contactref element="U9" pad="1"/>
+<contactref element="R87" pad="1"/>
+<contactref element="R83" pad="1"/>
+<wire x1="-353.568" y1="-356.743" x2="-365.379" y2="-352.425" width="0" layer="19" extent="1-1"/>
+<wire x1="-356.743" y1="-317.052" x2="-365.379" y2="-352.425" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$69">
+<contactref element="U9" pad="6"/>
+<contactref element="C19" pad="1"/>
+<contactref element="R87" pad="2"/>
+<contactref element="R88" pad="2"/>
+<wire x1="-345.948" y1="-356.743" x2="-369.57" y2="-361.061" width="0" layer="19" extent="1-1"/>
+<wire x1="-343.408" y1="-321.691" x2="-345.948" y2="-356.743" width="0" layer="19" extent="1-1"/>
+<wire x1="-354.203" y1="-311.852" x2="-343.408" y2="-321.691" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$70">
+<contactref element="R85" pad="1"/>
+<contactref element="R86" pad="2"/>
+<wire x1="-357.759" y1="-356.743" x2="-377.19" y2="-356.743" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="TPS">
+<contactref element="R82" pad="1"/>
+</signal>
+<signal name="TPS_FIL">
+<contactref element="U9" pad="7"/>
+<contactref element="C19" pad="2"/>
+<contactref element="R88" pad="1"/>
+<wire x1="-355.473" y1="-311.852" x2="-377.19" y2="-361.061" width="0" layer="19" extent="1-1"/>
+<wire x1="-338.328" y1="-321.691" x2="-355.473" y2="-311.852" width="0" layer="19" extent="1-1"/>
 </signal>
 </signals>
 </board>
