@@ -349,12 +349,6 @@ UsedLibrary="/home/apink/.eagle/lbr/zilog.lbr"
 UsedLibrary="/home/apink/eagle/smv-hardware/cpsmv.lbr"
 
 [Win_1]
-Type="Control Panel"
-Loc="58 177 657 576"
-State=1
-Number=0
-
-[Win_2]
 Type="Board Editor"
 Loc="69 518 668 917"
 State=2
@@ -399,6 +393,12 @@ ArcDirection=0
 AddLevel=2
 PadsSameType=0
 Layer=16
+
+[Win_2]
+Type="Control Panel"
+Loc="58 177 657 576"
+State=1
+Number=0
 
 [Desktop]
 Screen="2560 1440"
